@@ -3,16 +3,19 @@ import Header from './components/Header';
 import GameCard from './components/GameCard';
 import GameDetail from './components/GameDetail';
 import GlobalStats from './components/GlobalStats';
+import LoginScreen from './components/LoginScreen';
 import './App.css';
 
 export default function App() {
+  const [authed, setAuthed] = useState(() => localStorage.getItem('escombot-auth') === 'ok');
   const [games, setGames] = useState([]);
   const [selected, setSelected] = useState(null);
-  const [page, setPage] = useState('general'); // 'general' | 'partidos'
+  const [page, setPage] = useState('general');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
+    if (!authed) return;
     fetch('/data/games.json')
       .then(res => {
         if (!res.ok) throw new Error('No se encontraron datos');
@@ -26,7 +29,11 @@ export default function App() {
         setError(err.message);
         setLoading(false);
       });
-  }, []);
+  }, [authed]);
+
+  if (!authed) {
+    return <LoginScreen onAuth={() => setAuthed(true)} />;
+  }
 
   const handleNav = (p) => {
     setPage(p);
