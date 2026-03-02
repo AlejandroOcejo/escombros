@@ -1,0 +1,297 @@
+{
+  "cookies": [
+    {
+      "name": "unique_id",
+      "value": "25f017bf3c524ff8",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": 1805131316.824488,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "unique_id_durable",
+      "value": "25f017bf3c524ff8",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": 1805131316.824557,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "YSC",
+      "value": "rjD71-0ZX8g",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "Top7j5hx2i8",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1786726725.389512,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAQ",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1786726725.389524,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "chatbase_anon_id",
+      "value": "ba3c68b5-6aa8-4145-91ad-440cbe13c2fe",
+      "domain": ".escombros.clupik.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1653303843.1771174726",
+      "domain": ".clupik.app",
+      "path": "/",
+      "expires": 1778950726,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.647888918.1771174727",
+      "domain": ".clupik.app",
+      "path": "/",
+      "expires": 1771262518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "76ca898a-7d86-4fcf-84e2-7da9aee580074c24ad",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1805736119.498564,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "707b3562-3c67-4382-a752-505cc348f514f803a9",
+      "domain": ".escombros.clupik.app",
+      "path": "/",
+      "expires": 1802712119,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "1961b1c1-a789-4da5-b69f-e779a1b06c2f780c9f",
+      "domain": ".escombros.clupik.app",
+      "path": "/",
+      "expires": 1771177919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "laravel_session",
+      "value": "c6c907df09a20e16c504cf2ea89ec86386ea2a02%2BTwI64btlIVm61wtO2sh3PPjcFHDnJvK7tZfMiGqZ",
+      "domain": "clupik.pro",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.488992511.1771174729",
+      "domain": ".clupik.pro",
+      "path": "/",
+      "expires": 1805735446.206447,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "leverade_timezone",
+      "value": "Europe/Madrid",
+      "domain": "clupik.pro",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "16.YT=vXfL1MFl7m2tWfto4PdRPxxywWAMw6C5OZindVA6bNGkBGWST9YL0E-0Ve70Z9DQ71pD7ve80lXpk4BBVcY7pFPParDmqKHHmFCA9oFj-GercT9ZCYwrUaDzhWs0fR72uIXuNWzLdfCSWtdoTk6VEW4oJ-EHfaXXR5AF4ffcq3KJt6yyLo502OBYrBMke91-4-5w6WDIMImBnzvZYJwpeWJETwJNC58Q80bKtM8xK9gGu_D5bnXwYdZF53gCoAsi0HA7ZaUxdlCqeMx_eGNgOPPfIdLUqCbKP1mWqBOZr7tLhOowvuQHnTKzoGJUddDH-O6iRvSfSFJP5AvCTltFMQ",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1786726725.676202,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://clupik.app",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CPXcsd3-qoSxgAEQ6tTu_PvbkgMY357z_vvbkgM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1786726729.676264,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://clupik.app",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_ga_69V19EY83F",
+      "value": "GS2.1.s1771174729$o1$g1$t1771175446$j60$l0$h0",
+      "domain": ".clupik.pro",
+      "path": "/",
+      "expires": 1805735446.206229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "1BhKS3tfawtBT_dvd8zYA28Dh4pS_zoL.en02E5rTxk-1771175859-1.0.1.1-eE5fclBNHhhW9CtsxQRD7CL31ewg.MYaZmwEGFtFUopJBqNlZB0VWYtWB_KXf8eAAboizbbvzvOVjVc4rh1jMbEorNi91PI05KTwCRC70oI",
+      "domain": ".calendly.com",
+      "path": "/",
+      "expires": 1771177672.212987,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "gLI3.kIVDQqgJsMC9MeO4WUIiGRy32Y8JHe4kj7.QRc-1771175859894-0.0.1.1-604800000",
+      "domain": ".calendly.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "PebAv6S0Brj__2oYmtJ8opPr3ULCyDRblRpzc8xOFUs-1771175859-1.0.1.1-W9W1XJOOwLB1sz7pha7uNpvfynI03vsvrv1.uHnceXV46353bMgx_sUokoLmqv6W",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": 1771177672.285555,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "PNBqN6sXZFlO8HwP0X5iQJPeVcCQnLW9EXUvw3ujxmM-1771175859967-0.0.1.1-604800000",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".clupik.app",
+      "path": "/",
+      "expires": 1771176169,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_4VCL4CMB56",
+      "value": "GS2.1.s1771174726$o1$g1$t1771176117$j52$l0$h692506330",
+      "domain": ".clupik.app",
+      "path": "/",
+      "expires": 1805736117.759884,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.102719459.1771174726",
+      "domain": ".clupik.app",
+      "path": "/",
+      "expires": 1805736118.062197,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_97ZN6HTZ21",
+      "value": "GS2.1.s1771174726$o1$g1$t1771176119$j50$l0$h331283039",
+      "domain": ".clupik.app",
+      "path": "/",
+      "expires": 1805736119.070607,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://escombros.clupik.app",
+      "localStorage": [
+        {
+          "name": "roleTranslate",
+          "value": "{\"ACC\":\"Contable\",\"ADM\":\"Administrador\",\"COA\":\"Entrenador\",\"COO\":\"Coordinador\",\"EDI\":\"Editor\",\"FAN\":\"Fan\",\"MEM\":\"Socio\",\"PLA\":\"Deportista\",\"SDM\":\"Super Administrador\",\"TFN\":\"Equipos favoritos\",\"TUT\":\"Tutor\",\"INF\":\"Delegado\"}"
+        },
+        {
+          "name": "club",
+          "value": "{\"id\":\"36239\",\"name\":\"ESCOM-BROS\",\"febName\":null,\"editableName\":\"ESCOM-BROS\",\"postalCode\":null,\"countryId\":\"724\",\"regionId\":null,\"townId\":null,\"contactId\":\"15123\",\"seasonId\":null,\"facebookUrl\":null,\"twitterUrl\":null,\"instagramUrl\":null,\"twitchUrl\":null,\"tiktokUrl\":null,\"youtubeUrl\":null,\"clubUrl\":\"https://escombros.clupik.app\",\"customUrl\":null,\"clupikUrl\":null,\"wordpressUrl\":null,\"clubCif\":null,\"expeditionDate\":null,\"expeditionNumber\":null,\"googleAnalytics\":null,\"googleTagManager\":null,\"type\":\"CLB\",\"appUrlIos\":\"https://apps.apple.com/es/app/clupik/id1465368004\",\"appUrlAndroid\":\"https://play.google.com/store/apps/details?id=io.clupik.clupik\",\"clubParent\":null,\"appStatus\":false,\"seasonType\":\"SAP\",\"project\":\"clupik-front-9\",\"clubOwnerId\":null,\"cancellation\":false,\"redirect\":null,\"status\":\"naive\",\"digitalKit\":false,\"leveradeClubId\":null,\"leveradeFederationId\":null,\"nextGeneration\":false,\"justBoarded\":false,\"typeSupport\":null,\"subCoEu\":false,\"subFondoEu\":false,\"createdAt\":\"2025-11-10T09:58:28.153Z\",\"updatedAt\":\"2025-11-10T09:59:42.425Z\",\"deletedAt\":null,\"ClubId\":null,\"leverade_federation_id\":null,\"contact\":{\"id\":\"15123\",\"name\":\"COORDINADOR null\",\"phone\":null,\"email\":\"darecega@gmail.com\",\"address\":null,\"additionalData\":null,\"description\":null,\"createdAt\":\"2025-11-10T09:58:48.918Z\",\"updatedAt\":\"2025-11-10T09:58:48.918Z\",\"deletedAt\":null},\"jerseys\":[],\"section\":[{\"id\":\"34880\",\"clubId\":\"36239\",\"sportId\":\"2\",\"name\":\"Baloncesto\",\"visibility\":true,\"lastSlug\":\"baloncesto\",\"slug\":[\"baloncesto\"],\"ord\":\"0\",\"hasCompetition\":true,\"createdAt\":\"2025-11-10T09:58:49.031Z\",\"updatedAt\":\"2025-11-10T09:58:49.031Z\",\"deletedAt\":null,\"club_id\":\"36239\",\"ClubId\":\"36239\",\"sport_id\":\"2\",\"sport\":{\"id\":\"2\",\"player\":true},\"isPlayer\":true}],\"clubModules\":{\"achievements\":\"blocked\",\"publications\":\"blocked\",\"accounting\":\"active\",\"calendar\":\"active\",\"sponsorship\":\"blocked\",\"competition\":\"active\",\"injuries\":\"blocked\",\"inscriptions\":\"active\",\"shopReal\":\"blocked\",\"templateManager\":\"blocked\",\"childProtection\":\"blocked\",\"web\":\"blocked\",\"leverade\":\"active\",\"mur\":\"blocked\",\"fishDetection\":\"blocked\",\"digitalRecord\":\"blocked\",\"completeManager\":\"blocked\",\"shop\":\"blocked\"},\"clubConfig\":{\"latestLayout\":true,\"clubId\":\"36239\",\"languageCode\":\"ES\",\"languageRegion\":\"ES\",\"twitterToken\":null,\"facebookPageId\":null,\"instagramId\":null,\"registrationPermission\":true,\"roleRequestPermission\":true,\"gamesWidgetActivation\":true,\"gamesMenuActivation\":true,\"fullCompetitionClassification\":false,\"metricoolHash\":null,\"hideClubPubUser\":false,\"timezone\":\"Europe/Madrid\",\"cMngLicenses\":null,\"gamesOrder\":null,\"typeManagerSponsorAvailable\":false,\"coin\":{\"iso\":\"USD\",\"currencyCode\":\"840\",\"unitName\":\"Dollar\",\"symbol\":\"$\",\"decimals\":2,\"minorUnitName\":\"cent\"},\"season\":{\"id\":\"1042\",\"title\":\"2025/2026\",\"start\":\"2025-08-01T08:00:00.000Z\",\"end\":\"2026-08-01T08:00:00.000Z\",\"seasonType\":\"SAP\"},\"seasonTypes\":{\"code\":\"SAP\",\"name\":\"Temporada partida\",\"description\":\"Temporada partida en 2 años, normalmente de septiemnbre hasta julio\"},\"calendar\":{\"id\":\"27289\",\"clubId\":\"36239\",\"attendance\":false,\"summoning\":false,\"notifyAttendance\":false,\"notifySummoning\":false,\"attendanceTeams\":false,\"summoningTeams\":false,\"summoningDays\":4,\"usesPositionsAndCourses\":false,\"club_id\":\"36239\"},\"showAdmin\":false,\"isWebSiteVerified\":false},\"sponsorshipConfig\":{\"clubId\":\"36239\",\"visibility\":true,\"showCategory\":true,\"displayType\":\"stack\",\"club_id\":\"36239\"},\"clubImages\":{\"clubId\":\"36239\",\"navbar\":null,\"navbarTitle\":null,\"clubTransparent\":\"\",\"splash\":null,\"navbarApp\":null,\"background\":null,\"user\":null,\"team\":null,\"teamBackground\":null,\"seo\":null,\"player\":null,\"coach\":null,\"gameBackground\":null,\"teamHeader\":null,\"favicon\":null,\"publication\":null,\"club_id\":\"36239\"},\"shopConfig\":{},\"clubWebConfig\":{\"clubId\":\"36239\",\"visibility\":\"public\",\"mainPage\":\"home\",\"appMainPage\":\"login\",\"appVisibility\":\"public\",\"homeActive\":true,\"shopActive\":true,\"inscriptionActive\":true,\"featuredNewsVisibility\":true,\"featuredNewsConfiguration\":\"auto_transition_block\",\"loginVisible\":true,\"createdAt\":\"2025-11-10T09:58:28.210Z\",\"updatedAt\":\"2025-11-10T09:58:28.210Z\",\"deletedAt\":null,\"club_id\":\"36239\",\"mainPageConfig\":{\"results\":{\"visible\":true,\"order\":0},\"featured\":{\"visible\":true,\"order\":1},\"upperBanners\":{\"visible\":true,\"order\":2},\"lastNews\":{\"visible\":true,\"order\":3},\"middleBanners\":{\"visible\":true,\"order\":4},\"store\":{\"visible\":true,\"order\":5},\"album\":{\"visible\":true,\"order\":6},\"bottomBanners\":{\"visible\":true,\"order\":7},\"videos\":{\"visible\":true,\"order\":8},\"sponsors\":{\"visible\":true,\"order\":9}}},\"clubSeo\":{},\"clubFooterElements\":[],\"sponsorCategories\":0,\"templateManager\":null,\"hasHoldedId\":true,\"isMasterClub\":false,\"whiteLabelRRSS\":\"inactive\",\"currentPlan\":{\"code\":\"free\",\"customApp\":null},\"activeAds\":false}"
+        },
+        {
+          "name": "sport",
+          "value": "[{\"id\":\"23\",\"code\":\"SKT\",\"name\":\"Patinaje\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.SKT\",\"disciplineName\":\"speed_skate\",\"disciplineId\":\"112\"},{\"id\":\"25\",\"code\":\"TRT\",\"name\":\"Triatlón\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.TRT\",\"disciplineName\":\"triathlon\",\"disciplineId\":\"34\"},{\"id\":\"30\",\"code\":\"ARQ\",\"name\":\"Tiro con arco\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.ARQ\"},{\"id\":\"32\",\"code\":\"BOX\",\"name\":\"Boxeo\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.BOX\",\"disciplineName\":\"boxing\",\"disciplineId\":\"20\"},{\"id\":\"33\",\"code\":\"RUN\",\"name\":\"Running\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.RUN\"},{\"id\":\"35\",\"code\":\"ESD\",\"name\":\"Escuela Deportiva\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.ESD\"},{\"id\":\"36\",\"code\":\"EFB\",\"name\":\"Educación Física de Base\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.EFB\"},{\"id\":\"37\",\"code\":\"AKT\",\"name\":\"Patinaje Artístico\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.AKT\",\"disciplineName\":\"artistic_skate\",\"disciplineId\":\"111\"},{\"id\":\"38\",\"code\":\"PSP\",\"name\":\"Psicomotricidad en patines\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.PSP\"},{\"id\":\"39\",\"code\":\"SRF\",\"name\":\"Surf\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.SRF\",\"disciplineName\":\"surfing\",\"disciplineId\":\"129\"},{\"id\":\"40\",\"code\":\"ATL\",\"name\":\"Atletismo\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.ATL\",\"disciplineName\":\"athletics\",\"disciplineId\":\"22\"},{\"id\":\"1092\",\"code\":\"LCH\",\"name\":\"Lucha\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.LCH\"},{\"id\":\"1093\",\"code\":\"HPC\",\"name\":\"Hípica\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HPC\"},{\"id\":\"1094\",\"code\":\"MNT\",\"name\":\"Montaña\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.MNT\"},{\"id\":\"1\",\"code\":\"OTR\",\"name\":\"Otras actividades\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.OTR\",\"disciplineName\":\"other\",\"disciplineId\":\"76\"},{\"id\":\"2\",\"code\":\"BLC\",\"name\":\"Baloncesto\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.BLC\",\"disciplineName\":\"basketball\",\"disciplineId\":\"4\"},{\"id\":\"5\",\"code\":\"BLM\",\"name\":\"Balonmano\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.BLM\",\"disciplineName\":\"handball\",\"disciplineId\":\"17\"},{\"id\":\"6\",\"code\":\"FUT\",\"name\":\"Fútbol\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.FUT\",\"disciplineName\":\"soccer\",\"disciplineId\":\"128\"},{\"id\":\"7\",\"code\":\"VOL\",\"name\":\"Voleibol\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.VOL\",\"disciplineName\":\"volleyball\",\"disciplineId\":\"11\"},{\"id\":\"8\",\"code\":\"RUG\",\"name\":\"Rugby\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.RUG\",\"disciplineName\":\"rugby\",\"disciplineId\":\"18\"},{\"id\":\"10\",\"code\":\"FTS\",\"name\":\"Fútbol Sala\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.FTS\",\"disciplineName\":\"futsal\",\"disciplineId\":\"1\"},{\"id\":\"11\",\"code\":\"FTA\",\"name\":\"Fútbol Americano\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.FTA\",\"disciplineName\":\"american_football\",\"disciplineId\":\"49\"},{\"id\":\"12\",\"code\":\"HKL\",\"name\":\"Hockey Línea\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HKL\",\"disciplineName\":\"inline_hockey\",\"disciplineId\":\"48\"},{\"id\":\"13\",\"code\":\"HKC\",\"name\":\"Hockey Cesped\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HKC\",\"disciplineName\":\"field_hockey\",\"disciplineId\":\"45\"},{\"id\":\"14\",\"code\":\"PAD\",\"name\":\"Padel\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.PAD\",\"disciplineName\":\"paddle_tennis\",\"disciplineId\":\"9\"},{\"id\":\"16\",\"code\":\"GIR\",\"name\":\"Gimnasia ritmica\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.GIR\"},{\"id\":\"17\",\"code\":\"TEM\",\"name\":\"Tenis de mesa\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.TEM\",\"disciplineName\":\"table_tennis\",\"disciplineId\":\"6\"},{\"id\":\"18\",\"code\":\"BLS\",\"name\":\"Beisbol\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.BLS\",\"disciplineName\":\"baseball\",\"disciplineId\":\"37\"},{\"id\":\"19\",\"code\":\"WTP\",\"name\":\"Waterpolo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.WTP\",\"disciplineName\":\"water_polo\",\"disciplineId\":\"14\"},{\"id\":\"20\",\"code\":\"NAT\",\"name\":\"Natación\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.NAT\",\"disciplineName\":\"swimming\",\"disciplineId\":\"38\"},{\"id\":\"21\",\"code\":\"NAA\",\"name\":\"Natación artistica\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.NAA\"},{\"id\":\"22\",\"code\":\"GIA\",\"name\":\"Gimnasia artistica\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.GIA\"},{\"id\":\"24\",\"code\":\"ESP\",\"name\":\"Esports\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.ESP\"},{\"id\":\"26\",\"code\":\"JUD\",\"name\":\"Judo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.JUD\",\"disciplineName\":\"judo\",\"disciplineId\":\"100\"},{\"id\":\"27\",\"code\":\"AIK\",\"name\":\"Aikido\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.AIK\"},{\"id\":\"28\",\"code\":\"SAM\",\"name\":\"Sambo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.SAM\",\"disciplineName\":\"sambo\",\"disciplineId\":\"135\"},{\"id\":\"29\",\"code\":\"HKP\",\"name\":\"Hockey Patines\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HKP\",\"disciplineName\":\"roller_hockey\",\"disciplineId\":\"47\"},{\"id\":\"31\",\"code\":\"BDM\",\"name\":\"Badminton\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.BDM\",\"disciplineName\":\"badminton\",\"disciplineId\":\"13\"},{\"id\":\"41\",\"code\":\"SFT\",\"name\":\"Softball\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.SFT\"},{\"id\":\"1035\",\"code\":\"TNS\",\"name\":\"Tenis\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.TNS\",\"disciplineName\":\"tennis\",\"disciplineId\":\"5\"},{\"id\":\"15\",\"code\":\"KAR\",\"name\":\"Karate\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.KAR\",\"disciplineName\":\"karate\",\"disciplineId\":\"149\"},{\"id\":\"1095\",\"code\":\"MTC\",\"name\":\"Motociclismo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.MTC\"},{\"id\":\"1041\",\"code\":\"AJZ\",\"name\":\"Ajedrez\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.AJZ\",\"disciplineName\":\"chess\",\"disciplineId\":\"21\"},{\"id\":\"1096\",\"code\":\"PSC\",\"name\":\"Pesca y casting\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.PSC\",\"disciplineName\":\"fishing_and_casting\",\"disciplineId\":\"156\"},{\"id\":\"1042\",\"code\":\"SKI\",\"name\":\"Ski\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.SKI\",\"disciplineName\":\"skiing\",\"disciplineId\":\"93\"},{\"id\":\"1039\",\"code\":\"TJO\",\"name\":\"Tejo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.TJO\"},{\"id\":\"1040\",\"code\":\"BOL\",\"name\":\"Bolos\",\"competition\":true,\"player\":false,\"translation\":\"global.sports.BOL\",\"disciplineName\":\"bowling\",\"disciplineId\":\"91\"},{\"id\":\"1043\",\"code\":\"CHR\",\"name\":\"Cheerleading\",\"competition\":true,\"player\":false,\"translation\":\"global.sports.CHR\",\"disciplineName\":\"cheerleading\",\"disciplineId\":\"184\"},{\"id\":\"1044\",\"code\":\"DNC\",\"name\":\"Baile\",\"competition\":true,\"player\":false,\"translation\":\"global.sports.DNC\",\"disciplineName\":\"fit_kid\",\"disciplineId\":\"182\"},{\"id\":\"1078\",\"code\":\"PEU\",\"name\":\"Pelota Vasca\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.PEU\",\"disciplineName\":\"pelota\",\"disciplineId\":\"109\"},{\"id\":\"1079\",\"code\":\"ASB\",\"name\":\"Actividades Subacuáticas\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.ASB\"},{\"id\":\"1080\",\"code\":\"CLC\",\"name\":\"Ciclismo\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.CLC\",\"disciplineName\":\"cycling\",\"disciplineId\":\"8\"},{\"id\":\"1081\",\"code\":\"AUT\",\"name\":\"Automovilismo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.AUT\"},{\"id\":\"1083\",\"code\":\"CZA\",\"name\":\"Caza\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.CZA\"},{\"id\":\"1084\",\"code\":\"DAE\",\"name\":\"Deportes Aéreos\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.DAE\"},{\"id\":\"1085\",\"code\":\"DIN\",\"name\":\"Deportes de invierno\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.DIN\"},{\"id\":\"1086\",\"code\":\"EGR\",\"name\":\"Esgrima\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.EGR\",\"disciplineName\":\"fencing\",\"disciplineId\":\"152\"},{\"id\":\"1087\",\"code\":\"SKN\",\"name\":\"Esqui Náutico\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.SKN\",\"disciplineName\":\"water_skiing\",\"disciplineId\":\"158\"},{\"id\":\"1088\",\"code\":\"GMN\",\"name\":\"Gimnasia\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.GMN\"},{\"id\":\"1089\",\"code\":\"GLF\",\"name\":\"Golf\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.GLF\",\"disciplineName\":\"golf\",\"disciplineId\":\"44\"},{\"id\":\"1090\",\"code\":\"HLT\",\"name\":\"Halterofilia\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HLT\"},{\"id\":\"1091\",\"code\":\"HRK\",\"name\":\"Deporte rural vasco\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HRK\"},{\"id\":\"1097\",\"code\":\"PTN\",\"name\":\"Petanca\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.PTN\",\"disciplineName\":\"petanque\",\"disciplineId\":\"33\"},{\"id\":\"1098\",\"code\":\"PRG\",\"name\":\"Piragüismo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.PRG\"},{\"id\":\"1099\",\"code\":\"RMO\",\"name\":\"Remo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.RMO\",\"disciplineName\":\"rowing\",\"disciplineId\":\"155\"},{\"id\":\"1100\",\"code\":\"SLV\",\"name\":\"Salvamento y socorrismo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.SLV\"},{\"id\":\"1101\",\"code\":\"SQH\",\"name\":\"Squash\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.SQH\",\"disciplineName\":\"squash\",\"disciplineId\":\"40\"},{\"id\":\"1102\",\"code\":\"TAE\",\"name\":\"Taekwondo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.TAE\",\"disciplineName\":\"taekwondo\",\"disciplineId\":\"151\"},{\"id\":\"1103\",\"code\":\"TOL\",\"name\":\"Tiro olímpico\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.TOL\"},{\"id\":\"1104\",\"code\":\"VLA\",\"name\":\"Vela\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.VLA\"},{\"id\":\"1105\",\"code\":\"MIN\",\"name\":\"Deporte personas con minusvalías\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.MIN\"},{\"id\":\"34\",\"code\":\"MTB\",\"name\":\"Ciclomontañismo\",\"competition\":false,\"player\":false,\"translation\":\"global.sports.MTB\"},{\"id\":\"1109\",\"code\":\"CRO\",\"name\":\"Croquet\",\"competition\":false,\"player\":true,\"translation\":\"global.sports.CRO\",\"disciplineName\":\"croquet_gc\",\"disciplineId\":\"147\"},{\"id\":\"1110\",\"code\":\"TAV\",\"name\":\"Tiro al vuelo\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.TAV\",\"disciplineName\":\"shooting_sport\",\"disciplineId\":\"157\"},{\"id\":\"1111\",\"code\":\"ORI\",\"name\":\"Orientación\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.ORI\",\"disciplineName\":\"orientation\",\"disciplineId\":\"32\"},{\"id\":\"1112\",\"code\":\"AERO\",\"name\":\"Aeronáutica \",\"competition\":true,\"player\":true,\"translation\":\"global.sports.AERO\",\"disciplineName\":\"aeronautics\",\"disciplineId\":\"150\"},{\"id\":\"1113\",\"code\":\"HKS\",\"name\":\"Hockey Sala\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.HKS\"},{\"id\":\"1114\",\"code\":\"PET\",\"name\":\"Petanca\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.PET\"},{\"id\":\"1147\",\"code\":\"MVP\",\"name\":\"Campus MVP\",\"competition\":true,\"player\":true,\"translation\":\"global.sports.MVP\"}]"
+        },
+        {
+          "name": "countries",
+          "value": "[{\"id\":\"004\",\"name\":\"Afganistán\",\"countryGlobal\":{\"iso2\":\"AF\",\"iso3\":\"AFG\",\"numberCode\":\"004\"}},{\"id\":\"248\",\"name\":\"Åland\",\"countryGlobal\":{\"iso2\":\"AX\",\"iso3\":\"ALA\",\"numberCode\":\"248\"}},{\"id\":\"008\",\"name\":\"Albania\",\"countryGlobal\":{\"iso2\":\"AL\",\"iso3\":\"ALB\",\"numberCode\":\"008\"}},{\"id\":\"276\",\"name\":\"Alemania\",\"countryGlobal\":{\"iso2\":\"DE\",\"iso3\":\"DEU\",\"numberCode\":\"276\"}},{\"id\":\"020\",\"name\":\"Andorra\",\"countryGlobal\":{\"iso2\":\"AD\",\"iso3\":\"AND\",\"numberCode\":\"020\"}},{\"id\":\"024\",\"name\":\"Angola\",\"countryGlobal\":{\"iso2\":\"AO\",\"iso3\":\"AGO\",\"numberCode\":\"024\"}},{\"id\":\"660\",\"name\":\"Anguila\",\"countryGlobal\":{\"iso2\":\"AI\",\"iso3\":\"AIA\",\"numberCode\":\"660\"}},{\"id\":\"010\",\"name\":\"Antártida\",\"countryGlobal\":{\"iso2\":\"AQ\",\"iso3\":\"ATA\",\"numberCode\":\"010\"}},{\"id\":\"028\",\"name\":\"Antigua y Barbuda\",\"countryGlobal\":{\"iso2\":\"AG\",\"iso3\":\"ATG\",\"numberCode\":\"028\"}},{\"id\":\"682\",\"name\":\"Arabia Saudita\",\"countryGlobal\":{\"iso2\":\"SA\",\"iso3\":\"SAU\",\"numberCode\":\"682\"}},{\"id\":\"012\",\"name\":\"Argelia\",\"countryGlobal\":{\"iso2\":\"DZ\",\"iso3\":\"DZA\",\"numberCode\":\"012\"}},{\"id\":\"032\",\"name\":\"Argentina\",\"countryGlobal\":{\"iso2\":\"AR\",\"iso3\":\"ARG\",\"numberCode\":\"032\"}},{\"id\":\"051\",\"name\":\"Armenia\",\"countryGlobal\":{\"iso2\":\"AM\",\"iso3\":\"ARM\",\"numberCode\":\"051\"}},{\"id\":\"533\",\"name\":\"Aruba\",\"countryGlobal\":{\"iso2\":\"AW\",\"iso3\":\"ABW\",\"numberCode\":\"533\"}},{\"id\":\"036\",\"name\":\"Australia\",\"countryGlobal\":{\"iso2\":\"AU\",\"iso3\":\"AUS\",\"numberCode\":\"036\"}},{\"id\":\"040\",\"name\":\"Austria\",\"countryGlobal\":{\"iso2\":\"AT\",\"iso3\":\"AUT\",\"numberCode\":\"040\"}},{\"id\":\"031\",\"name\":\"Azerbaiyán\",\"countryGlobal\":{\"iso2\":\"AZ\",\"iso3\":\"AZE\",\"numberCode\":\"031\"}},{\"id\":\"044\",\"name\":\"Bahamas (las)\",\"countryGlobal\":{\"iso2\":\"BS\",\"iso3\":\"BHS\",\"numberCode\":\"044\"}},{\"id\":\"048\",\"name\":\"Bahréin\",\"countryGlobal\":{\"iso2\":\"BH\",\"iso3\":\"BHR\",\"numberCode\":\"048\"}},{\"id\":\"050\",\"name\":\"Bangladesh\",\"countryGlobal\":{\"iso2\":\"BD\",\"iso3\":\"BGD\",\"numberCode\":\"050\"}},{\"id\":\"052\",\"name\":\"Barbados\",\"countryGlobal\":{\"iso2\":\"BB\",\"iso3\":\"BRB\",\"numberCode\":\"052\"}},{\"id\":\"112\",\"name\":\"Belarús\",\"countryGlobal\":{\"iso2\":\"BY\",\"iso3\":\"BLR\",\"numberCode\":\"112\"}},{\"id\":\"056\",\"name\":\"Bélgica\",\"countryGlobal\":{\"iso2\":\"BE\",\"iso3\":\"BEL\",\"numberCode\":\"056\"}},{\"id\":\"084\",\"name\":\"Belice\",\"countryGlobal\":{\"iso2\":\"BZ\",\"iso3\":\"BLZ\",\"numberCode\":\"084\"}},{\"id\":\"204\",\"name\":\"Benín\",\"countryGlobal\":{\"iso2\":\"BJ\",\"iso3\":\"BEN\",\"numberCode\":\"204\"}},{\"id\":\"060\",\"name\":\"Bermudas\",\"countryGlobal\":{\"iso2\":\"BM\",\"iso3\":\"BMU\",\"numberCode\":\"060\"}},{\"id\":\"064\",\"name\":\"Bhután\",\"countryGlobal\":{\"iso2\":\"BT\",\"iso3\":\"BTN\",\"numberCode\":\"064\"}},{\"id\":\"104\",\"name\":\"Birmania\",\"countryGlobal\":{\"iso2\":\"MM\",\"iso3\":\"MMR\",\"numberCode\":\"104\"}},{\"id\":\"068\",\"name\":\"Bolivia (Estado Plurinacional de)\",\"countryGlobal\":{\"iso2\":\"BO\",\"iso3\":\"BOL\",\"numberCode\":\"068\"}},{\"id\":\"535\",\"name\":\"Bonaire\",\"countryGlobal\":{\"iso2\":\"BQ\",\"iso3\":\"BES\",\"numberCode\":\"535\"}},{\"id\":\"070\",\"name\":\"Bosnia y Herzegovina\",\"countryGlobal\":{\"iso2\":\"BA\",\"iso3\":\"BIH\",\"numberCode\":\"070\"}},{\"id\":\"072\",\"name\":\"Botswana\",\"countryGlobal\":{\"iso2\":\"BW\",\"iso3\":\"BWA\",\"numberCode\":\"072\"}},{\"id\":\"074\",\"name\":\"Bouvet\",\"countryGlobal\":{\"iso2\":\"BV\",\"iso3\":\"BVT\",\"numberCode\":\"074\"}},{\"id\":\"076\",\"name\":\"Brasil\",\"countryGlobal\":{\"iso2\":\"BR\",\"iso3\":\"BRA\",\"numberCode\":\"076\"}},{\"id\":\"096\",\"name\":\"Brunéi\",\"countryGlobal\":{\"iso2\":\"BN\",\"iso3\":\"BRN\",\"numberCode\":\"096\"}},{\"id\":\"100\",\"name\":\"Bulgaria\",\"countryGlobal\":{\"iso2\":\"BG\",\"iso3\":\"BGR\",\"numberCode\":\"100\"}},{\"id\":\"854\",\"name\":\"Burkina Faso\",\"countryGlobal\":{\"iso2\":\"BF\",\"iso3\":\"BFA\",\"numberCode\":\"854\"}},{\"id\":\"108\",\"name\":\"Burundi\",\"countryGlobal\":{\"iso2\":\"BI\",\"iso3\":\"BDI\",\"numberCode\":\"108\"}},{\"id\":\"132\",\"name\":\"Cabo Verde\",\"countryGlobal\":{\"iso2\":\"CV\",\"iso3\":\"CPV\",\"numberCode\":\"132\"}},{\"id\":\"136\",\"name\":\"Caimán\",\"countryGlobal\":{\"iso2\":\"KY\",\"iso3\":\"CYM\",\"numberCode\":\"136\"}},{\"id\":\"116\",\"name\":\"Camboya\",\"countryGlobal\":{\"iso2\":\"KH\",\"iso3\":\"KHM\",\"numberCode\":\"116\"}},{\"id\":\"120\",\"name\":\"Camerún\",\"countryGlobal\":{\"iso2\":\"CM\",\"iso3\":\"CMR\",\"numberCode\":\"120\"}},{\"id\":\"124\",\"name\":\"Canadá\",\"countryGlobal\":{\"iso2\":\"CA\",\"iso3\":\"CAN\",\"numberCode\":\"124\"}},{\"id\":\"148\",\"name\":\"Chad\",\"countryGlobal\":{\"iso2\":\"TD\",\"iso3\":\"TCD\",\"numberCode\":\"148\"}},{\"id\":\"152\",\"name\":\"Chile\",\"countryGlobal\":{\"iso2\":\"CL\",\"iso3\":\"CHL\",\"numberCode\":\"152\"}},{\"id\":\"156\",\"name\":\"China\",\"countryGlobal\":{\"iso2\":\"CN\",\"iso3\":\"CHN\",\"numberCode\":\"156\"}},{\"id\":\"196\",\"name\":\"Chipre\",\"countryGlobal\":{\"iso2\":\"CY\",\"iso3\":\"CYP\",\"numberCode\":\"196\"}},{\"id\":\"166\",\"name\":\"Cocos / Keeling\",\"countryGlobal\":{\"iso2\":\"CC\",\"iso3\":\"CCK\",\"numberCode\":\"166\"}},{\"id\":\"170\",\"name\":\"Colombia\",\"countryGlobal\":{\"iso2\":\"CO\",\"iso3\":\"COL\",\"numberCode\":\"170\"}},{\"id\":\"174\",\"name\":\"Comoras (las)\",\"countryGlobal\":{\"iso2\":\"KM\",\"iso3\":\"COM\",\"numberCode\":\"174\"}},{\"id\":\"178\",\"name\":\"Congo (el)\",\"countryGlobal\":{\"iso2\":\"CG\",\"iso3\":\"COG\",\"numberCode\":\"178\"}},{\"id\":\"180\",\"name\":\"Congo (la República Democrática del)\",\"countryGlobal\":{\"iso2\":\"CD\",\"iso3\":\"COD\",\"numberCode\":\"180\"}},{\"id\":\"184\",\"name\":\"Cook\",\"countryGlobal\":{\"iso2\":\"CK\",\"iso3\":\"COK\",\"numberCode\":\"184\"}},{\"id\":\"410\",\"name\":\"Corea (la República de)\",\"countryGlobal\":{\"iso2\":\"KR\",\"iso3\":\"KOR\",\"numberCode\":\"410\"}},{\"id\":\"408\",\"name\":\"Corea (la República Popular Democrática de)\",\"countryGlobal\":{\"iso2\":\"KP\",\"iso3\":\"PRK\",\"numberCode\":\"408\"}},{\"id\":\"188\",\"name\":\"Costa Rica\",\"countryGlobal\":{\"iso2\":\"CR\",\"iso3\":\"CRI\",\"numberCode\":\"188\"}},{\"id\":\"384\",\"name\":\"Côte d'Ivoire\",\"countryGlobal\":{\"iso2\":\"CI\",\"iso3\":\"CIV\",\"numberCode\":\"384\"}},{\"id\":\"191\",\"name\":\"Croacia\",\"countryGlobal\":{\"iso2\":\"HR\",\"iso3\":\"HRV\",\"numberCode\":\"191\"}},{\"id\":\"192\",\"name\":\"Cuba\",\"countryGlobal\":{\"iso2\":\"CU\",\"iso3\":\"CUB\",\"numberCode\":\"192\"}},{\"id\":\"531\",\"name\":\"Curaçao\",\"countryGlobal\":{\"iso2\":\"CW\",\"iso3\":\"CUW\",\"numberCode\":\"531\"}},{\"id\":\"208\",\"name\":\"Dinamarca\",\"countryGlobal\":{\"iso2\":\"DK\",\"iso3\":\"DNK\",\"numberCode\":\"208\"}},{\"id\":\"262\",\"name\":\"Djibouti\",\"countryGlobal\":{\"iso2\":\"DJ\",\"iso3\":\"DJI\",\"numberCode\":\"262\"}},{\"id\":\"212\",\"name\":\"Dominica\",\"countryGlobal\":{\"iso2\":\"DM\",\"iso3\":\"DMA\",\"numberCode\":\"212\"}},{\"id\":\"214\",\"name\":\"Dominicana\",\"countryGlobal\":{\"iso2\":\"DO\",\"iso3\":\"DOM\",\"numberCode\":\"214\"}},{\"id\":\"218\",\"name\":\"Ecuador\",\"countryGlobal\":{\"iso2\":\"EC\",\"iso3\":\"ECU\",\"numberCode\":\"218\"}},{\"id\":\"818\",\"name\":\"Egipto\",\"countryGlobal\":{\"iso2\":\"EG\",\"iso3\":\"EGY\",\"numberCode\":\"818\"}},{\"id\":\"222\",\"name\":\"El Salvador\",\"countryGlobal\":{\"iso2\":\"SV\",\"iso3\":\"SLV\",\"numberCode\":\"222\"}},{\"id\":\"784\",\"name\":\"Emiratos Árabes Unidos (los)\",\"countryGlobal\":{\"iso2\":\"AE\",\"iso3\":\"ARE\",\"numberCode\":\"784\"}},{\"id\":\"232\",\"name\":\"Eritrea\",\"countryGlobal\":{\"iso2\":\"ER\",\"iso3\":\"ERI\",\"numberCode\":\"232\"}},{\"id\":\"703\",\"name\":\"Eslovaquia\",\"countryGlobal\":{\"iso2\":\"SK\",\"iso3\":\"SVK\",\"numberCode\":\"703\"}},{\"id\":\"705\",\"name\":\"Eslovenia\",\"countryGlobal\":{\"iso2\":\"SI\",\"iso3\":\"SVN\",\"numberCode\":\"705\"}},{\"id\":\"724\",\"name\":\"España\",\"countryGlobal\":{\"iso2\":\"ES\",\"iso3\":\"ESP\",\"numberCode\":\"724\"}},{\"id\":\"840\",\"name\":\"Estados Unidos de América (los)\",\"countryGlobal\":{\"iso2\":\"US\",\"iso3\":\"USA\",\"numberCode\":\"840\"}},{\"id\":\"233\",\"name\":\"Estonia\",\"countryGlobal\":{\"iso2\":\"EE\",\"iso3\":\"EST\",\"numberCode\":\"233\"}},{\"id\":\"231\",\"name\":\"Etiopía\",\"countryGlobal\":{\"iso2\":\"ET\",\"iso3\":\"ETH\",\"numberCode\":\"231\"}},{\"id\":\"234\",\"name\":\"Feroe\",\"countryGlobal\":{\"iso2\":\"FO\",\"iso3\":\"FRO\",\"numberCode\":\"234\"}},{\"id\":\"242\",\"name\":\"Fiji\",\"countryGlobal\":{\"iso2\":\"FJ\",\"iso3\":\"FJI\",\"numberCode\":\"242\"}},{\"id\":\"608\",\"name\":\"Filipinas (las)\",\"countryGlobal\":{\"iso2\":\"PH\",\"iso3\":\"PHL\",\"numberCode\":\"608\"}},{\"id\":\"246\",\"name\":\"Finlandia\",\"countryGlobal\":{\"iso2\":\"FI\",\"iso3\":\"FIN\",\"numberCode\":\"246\"}},{\"id\":\"250\",\"name\":\"Francia\",\"countryGlobal\":{\"iso2\":\"FR\",\"iso3\":\"FRA\",\"numberCode\":\"250\"}},{\"id\":\"266\",\"name\":\"Gabón\",\"countryGlobal\":{\"iso2\":\"GA\",\"iso3\":\"GAB\",\"numberCode\":\"266\"}},{\"id\":\"270\",\"name\":\"Gambia (la)\",\"countryGlobal\":{\"iso2\":\"GM\",\"iso3\":\"GMB\",\"numberCode\":\"270\"}},{\"id\":\"268\",\"name\":\"Georgia\",\"countryGlobal\":{\"iso2\":\"GE\",\"iso3\":\"GEO\",\"numberCode\":\"268\"}},{\"id\":\"239\",\"name\":\"Georgia del Sur (la) y las Islas Sandwich del Sur\",\"countryGlobal\":{\"iso2\":\"GS\",\"iso3\":\"SGS\",\"numberCode\":\"239\"}},{\"id\":\"288\",\"name\":\"Ghana\",\"countryGlobal\":{\"iso2\":\"GH\",\"iso3\":\"GHA\",\"numberCode\":\"288\"}},{\"id\":\"292\",\"name\":\"Gibraltar\",\"countryGlobal\":{\"iso2\":\"GI\",\"iso3\":\"GIB\",\"numberCode\":\"292\"}},{\"id\":\"308\",\"name\":\"Granada\",\"countryGlobal\":{\"iso2\":\"GD\",\"iso3\":\"GRD\",\"numberCode\":\"308\"}},{\"id\":\"300\",\"name\":\"Grecia\",\"countryGlobal\":{\"iso2\":\"GR\",\"iso3\":\"GRC\",\"numberCode\":\"300\"}},{\"id\":\"304\",\"name\":\"Groenlandia\",\"countryGlobal\":{\"iso2\":\"GL\",\"iso3\":\"GRL\",\"numberCode\":\"304\"}},{\"id\":\"312\",\"name\":\"\\tGuadeloupe\",\"countryGlobal\":{\"iso2\":\"GP\",\"iso3\":\"GLP\",\"numberCode\":\"312\"}},{\"id\":\"316\",\"name\":\"Guam\",\"countryGlobal\":{\"iso2\":\"GU\",\"iso3\":\"GUM\",\"numberCode\":\"316\"}},{\"id\":\"320\",\"name\":\"Guatemala\",\"countryGlobal\":{\"iso2\":\"GT\",\"iso3\":\"GTM\",\"numberCode\":\"320\"}},{\"id\":\"254\",\"name\":\"Guayana Francesa\",\"countryGlobal\":{\"iso2\":\"GF\",\"iso3\":\"GUF\",\"numberCode\":\"254\"}},{\"id\":\"831\",\"name\":\"Guernsey\",\"countryGlobal\":{\"iso2\":\"GG\",\"iso3\":\"GGY\",\"numberCode\":\"831\"}},{\"id\":\"324\",\"name\":\"Guinea\",\"countryGlobal\":{\"iso2\":\"GN\",\"iso3\":\"GIN\",\"numberCode\":\"324\"}},{\"id\":\"624\",\"name\":\"Guinea Bissau\",\"countryGlobal\":{\"iso2\":\"GW\",\"iso3\":\"GNB\",\"numberCode\":\"624\"}},{\"id\":\"226\",\"name\":\"Guinea Ecuatorial\",\"countryGlobal\":{\"iso2\":\"GQ\",\"iso3\":\"GNQ\",\"numberCode\":\"226\"}},{\"id\":\"328\",\"name\":\"Guyana\",\"countryGlobal\":{\"iso2\":\"GY\",\"iso3\":\"GUY\",\"numberCode\":\"328\"}},{\"id\":\"332\",\"name\":\"Haití\",\"countryGlobal\":{\"iso2\":\"HT\",\"iso3\":\"HTI\",\"numberCode\":\"332\"}},{\"id\":\"334\",\"name\":\"Heard (Isla) e Islas McDonald\",\"countryGlobal\":{\"iso2\":\"HM\",\"iso3\":\"HMD\",\"numberCode\":\"334\"}},{\"id\":\"340\",\"name\":\"Honduras\",\"countryGlobal\":{\"iso2\":\"HN\",\"iso3\":\"HND\",\"numberCode\":\"340\"}},{\"id\":\"344\",\"name\":\"Hong Kong\",\"countryGlobal\":{\"iso2\":\"HK\",\"iso3\":\"HKG\",\"numberCode\":\"344\"}},{\"id\":\"348\",\"name\":\"Hungría\",\"countryGlobal\":{\"iso2\":\"HU\",\"iso3\":\"HUN\",\"numberCode\":\"348\"}},{\"id\":\"356\",\"name\":\"India\",\"countryGlobal\":{\"iso2\":\"IN\",\"iso3\":\"IND\",\"numberCode\":\"356\"}},{\"id\":\"360\",\"name\":\"Indonesia\",\"countryGlobal\":{\"iso2\":\"ID\",\"iso3\":\"IDN\",\"numberCode\":\"360\"}},{\"id\":\"364\",\"name\":\"Irán (República Islámica de)\",\"countryGlobal\":{\"iso2\":\"IR\",\"iso3\":\"IRN\",\"numberCode\":\"364\"}},{\"id\":\"368\",\"name\":\"Iraq\",\"countryGlobal\":{\"iso2\":\"IQ\",\"iso3\":\"IRQ\",\"numberCode\":\"368\"}},{\"id\":\"372\",\"name\":\"Irlanda\",\"countryGlobal\":{\"iso2\":\"IE\",\"iso3\":\"IRL\",\"numberCode\":\"372\"}},{\"id\":\"833\",\"name\":\"Isla de Man\",\"countryGlobal\":{\"iso2\":\"IM\",\"iso3\":\"IMN\",\"numberCode\":\"833\"}},{\"id\":\"352\",\"name\":\"Islandia\",\"countryGlobal\":{\"iso2\":\"IS\",\"iso3\":\"ISL\",\"numberCode\":\"352\"}},{\"id\":\"570\",\"name\":\"Isla Niue\",\"countryGlobal\":{\"iso2\":\"NU\",\"iso3\":\"NIU\",\"numberCode\":\"570\"}},{\"id\":\"581\",\"name\":\"Islas Ultramarinas Menores de los Estados Unidos (las)\",\"countryGlobal\":{\"iso2\":\"UM\",\"iso3\":\"UMI\",\"numberCode\":\"581\"}},{\"id\":\"376\",\"name\":\"Israel\",\"countryGlobal\":{\"iso2\":\"IL\",\"iso3\":\"ISR\",\"numberCode\":\"376\"}},{\"id\":\"380\",\"name\":\"Italia\",\"countryGlobal\":{\"iso2\":\"IT\",\"iso3\":\"ITA\",\"numberCode\":\"380\"}},{\"id\":\"388\",\"name\":\"Jamaica\",\"countryGlobal\":{\"iso2\":\"JM\",\"iso3\":\"JAM\",\"numberCode\":\"388\"}},{\"id\":\"392\",\"name\":\"Japón\",\"countryGlobal\":{\"iso2\":\"JP\",\"iso3\":\"JPN\",\"numberCode\":\"392\"}},{\"id\":\"832\",\"name\":\"Jersey\",\"countryGlobal\":{\"iso2\":\"JE\",\"iso3\":\"JEY\",\"numberCode\":\"832\"}},{\"id\":\"400\",\"name\":\"Jordania\",\"countryGlobal\":{\"iso2\":\"JO\",\"iso3\":\"JOR\",\"numberCode\":\"400\"}},{\"id\":\"398\",\"name\":\"Kazajstán\",\"countryGlobal\":{\"iso2\":\"KZ\",\"iso3\":\"KAZ\",\"numberCode\":\"398\"}},{\"id\":\"404\",\"name\":\"Kenya\",\"countryGlobal\":{\"iso2\":\"KE\",\"iso3\":\"KEN\",\"numberCode\":\"404\"}},{\"id\":\"417\",\"name\":\"Kirguistán\",\"countryGlobal\":{\"iso2\":\"KG\",\"iso3\":\"KGZ\",\"numberCode\":\"417\"}},{\"id\":\"296\",\"name\":\"Kiribati\",\"countryGlobal\":{\"iso2\":\"KI\",\"iso3\":\"KIR\",\"numberCode\":\"296\"}},{\"id\":\"414\",\"name\":\"Kuwait\",\"countryGlobal\":{\"iso2\":\"KW\",\"iso3\":\"KWT\",\"numberCode\":\"414\"}},{\"id\":\"418\",\"name\":\"Lao\",\"countryGlobal\":{\"iso2\":\"LA\",\"iso3\":\"LAO\",\"numberCode\":\"418\"}},{\"id\":\"426\",\"name\":\"Lesotho\",\"countryGlobal\":{\"iso2\":\"LS\",\"iso3\":\"LSO\",\"numberCode\":\"426\"}},{\"id\":\"428\",\"name\":\"Letonia\",\"countryGlobal\":{\"iso2\":\"LV\",\"iso3\":\"LVA\",\"numberCode\":\"428\"}},{\"id\":\"422\",\"name\":\"Líbano\",\"countryGlobal\":{\"iso2\":\"LB\",\"iso3\":\"LBN\",\"numberCode\":\"422\"}},{\"id\":\"430\",\"name\":\"Liberia\",\"countryGlobal\":{\"iso2\":\"LR\",\"iso3\":\"LBR\",\"numberCode\":\"430\"}},{\"id\":\"434\",\"name\":\"Libia\",\"countryGlobal\":{\"iso2\":\"LY\",\"iso3\":\"LBY\",\"numberCode\":\"434\"}},{\"id\":\"438\",\"name\":\"Liechtenstein\",\"countryGlobal\":{\"iso2\":\"LI\",\"iso3\":\"LIE\",\"numberCode\":\"438\"}},{\"id\":\"440\",\"name\":\"Lituania\",\"countryGlobal\":{\"iso2\":\"LT\",\"iso3\":\"LTU\",\"numberCode\":\"440\"}},{\"id\":\"442\",\"name\":\"Luxemburgo\",\"countryGlobal\":{\"iso2\":\"LU\",\"iso3\":\"LUX\",\"numberCode\":\"442\"}},{\"id\":\"807\",\"name\":\"Macedonia (la ex República Yugoslava de)\",\"countryGlobal\":{\"iso2\":\"MK\",\"iso3\":\"MKD\",\"numberCode\":\"807\"}},{\"id\":\"450\",\"name\":\"Madagascar\",\"countryGlobal\":{\"iso2\":\"MG\",\"iso3\":\"MDG\",\"numberCode\":\"450\"}},{\"id\":\"458\",\"name\":\"Malasia\",\"countryGlobal\":{\"iso2\":\"MY\",\"iso3\":\"MYS\",\"numberCode\":\"458\"}},{\"id\":\"454\",\"name\":\"Malawi\",\"countryGlobal\":{\"iso2\":\"MW\",\"iso3\":\"MWI\",\"numberCode\":\"454\"}},{\"id\":\"462\",\"name\":\"Maldivas\",\"countryGlobal\":{\"iso2\":\"MV\",\"iso3\":\"MDV\",\"numberCode\":\"462\"}},{\"id\":\"466\",\"name\":\"Mali\",\"countryGlobal\":{\"iso2\":\"ML\",\"iso3\":\"MLI\",\"numberCode\":\"466\"}},{\"id\":\"470\",\"name\":\"Malta\",\"countryGlobal\":{\"iso2\":\"MT\",\"iso3\":\"MLT\",\"numberCode\":\"470\"}},{\"id\":\"238\",\"name\":\"Malvinas [Falkland]\",\"countryGlobal\":{\"iso2\":\"FK\",\"iso3\":\"FLK\",\"numberCode\":\"238\"}},{\"id\":\"580\",\"name\":\"Marianas del Norte\",\"countryGlobal\":{\"iso2\":\"MP\",\"iso3\":\"MNP\",\"numberCode\":\"580\"}},{\"id\":\"504\",\"name\":\"Marruecos\",\"countryGlobal\":{\"iso2\":\"MA\",\"iso3\":\"MAR\",\"numberCode\":\"504\"}},{\"id\":\"584\",\"name\":\"Marshall\",\"countryGlobal\":{\"iso2\":\"MH\",\"iso3\":\"MHL\",\"numberCode\":\"584\"}},{\"id\":\"474\",\"name\":\"Martinique\",\"countryGlobal\":{\"iso2\":\"MQ\",\"iso3\":\"MTQ\",\"numberCode\":\"474\"}},{\"id\":\"480\",\"name\":\"Mauricio\",\"countryGlobal\":{\"iso2\":\"MU\",\"iso3\":\"MUS\",\"numberCode\":\"480\"}},{\"id\":\"478\",\"name\":\"Mauritania\",\"countryGlobal\":{\"iso2\":\"MR\",\"iso3\":\"MRT\",\"numberCode\":\"478\"}},{\"id\":\"175\",\"name\":\"Mayotte\",\"countryGlobal\":{\"iso2\":\"YT\",\"iso3\":\"MYT\",\"numberCode\":\"175\"}},{\"id\":\"484\",\"name\":\"México\",\"countryGlobal\":{\"iso2\":\"MX\",\"iso3\":\"MEX\",\"numberCode\":\"484\"}},{\"id\":\"583\",\"name\":\"Micronesia (Estados Federados de)\",\"countryGlobal\":{\"iso2\":\"FM\",\"iso3\":\"FSM\",\"numberCode\":\"583\"}},{\"id\":\"498\",\"name\":\"Moldova (la República de)\",\"countryGlobal\":{\"iso2\":\"MD\",\"iso3\":\"MDA\",\"numberCode\":\"498\"}},{\"id\":\"492\",\"name\":\"Mónaco\",\"countryGlobal\":{\"iso2\":\"MC\",\"iso3\":\"MCO\",\"numberCode\":\"492\"}},{\"id\":\"496\",\"name\":\"Mongolia\",\"countryGlobal\":{\"iso2\":\"MN\",\"iso3\":\"MNG\",\"numberCode\":\"496\"}},{\"id\":\"499\",\"name\":\"Montenegro\",\"countryGlobal\":{\"iso2\":\"ME\",\"iso3\":\"MNE\",\"numberCode\":\"499\"}},{\"id\":\"500\",\"name\":\"Montserrat\",\"countryGlobal\":{\"iso2\":\"MS\",\"iso3\":\"MSR\",\"numberCode\":\"500\"}},{\"id\":\"508\",\"name\":\"Mozambique\",\"countryGlobal\":{\"iso2\":\"MZ\",\"iso3\":\"MOZ\",\"numberCode\":\"508\"}},{\"id\":\"516\",\"name\":\"Namibia\",\"countryGlobal\":{\"iso2\":\"NA\",\"iso3\":\"NAM\",\"numberCode\":\"516\"}},{\"id\":\"520\",\"name\":\"Nauru\",\"countryGlobal\":{\"iso2\":\"NR\",\"iso3\":\"NRU\",\"numberCode\":\"520\"}},{\"id\":\"162\",\"name\":\"Navidad\",\"countryGlobal\":{\"iso2\":\"CX\",\"iso3\":\"CXR\",\"numberCode\":\"162\"}},{\"id\":\"524\",\"name\":\"Nepal\",\"countryGlobal\":{\"iso2\":\"NP\",\"iso3\":\"NPL\",\"numberCode\":\"524\"}},{\"id\":\"558\",\"name\":\"Nicaragua\",\"countryGlobal\":{\"iso2\":\"NI\",\"iso3\":\"NIC\",\"numberCode\":\"558\"}},{\"id\":\"562\",\"name\":\"Níger (el)\",\"countryGlobal\":{\"iso2\":\"NE\",\"iso3\":\"NER\",\"numberCode\":\"562\"}},{\"id\":\"566\",\"name\":\"Nigeria\",\"countryGlobal\":{\"iso2\":\"NG\",\"iso3\":\"NGA\",\"numberCode\":\"566\"}},{\"id\":\"574\",\"name\":\"Norfolk\",\"countryGlobal\":{\"iso2\":\"NF\",\"iso3\":\"NFK\",\"numberCode\":\"574\"}},{\"id\":\"578\",\"name\":\"Noruega\",\"countryGlobal\":{\"iso2\":\"NO\",\"iso3\":\"NOR\",\"numberCode\":\"578\"}},{\"id\":\"540\",\"name\":\"Nueva Caledonia\",\"countryGlobal\":{\"iso2\":\"NC\",\"iso3\":\"NCL\",\"numberCode\":\"540\"}},{\"id\":\"554\",\"name\":\"Nueva Zelandia\",\"countryGlobal\":{\"iso2\":\"NZ\",\"iso3\":\"NZL\",\"numberCode\":\"554\"}},{\"id\":\"512\",\"name\":\"Omán\",\"countryGlobal\":{\"iso2\":\"OM\",\"iso3\":\"OMN\",\"numberCode\":\"512\"}},{\"id\":\"528\",\"name\":\"Países Bajos (los)\",\"countryGlobal\":{\"iso2\":\"NL\",\"iso3\":\"NLD\",\"numberCode\":\"528\"}},{\"id\":\"586\",\"name\":\"Pakistán\",\"countryGlobal\":{\"iso2\":\"PK\",\"iso3\":\"PAK\",\"numberCode\":\"586\"}},{\"id\":\"585\",\"name\":\"Palau\",\"countryGlobal\":{\"iso2\":\"PW\",\"iso3\":\"PLW\",\"numberCode\":\"585\"}},{\"id\":\"275\",\"name\":\"Palestina\",\"countryGlobal\":{\"iso2\":\"PS\",\"iso3\":\"PSE\",\"numberCode\":\"275\"}},{\"id\":\"591\",\"name\":\"Panamá\",\"countryGlobal\":{\"iso2\":\"PA\",\"iso3\":\"PAN\",\"numberCode\":\"591\"}},{\"id\":\"598\",\"name\":\"Papúa Nueva Guinea\",\"countryGlobal\":{\"iso2\":\"PG\",\"iso3\":\"PNG\",\"numberCode\":\"598\"}},{\"id\":\"600\",\"name\":\"Paraguay\",\"countryGlobal\":{\"iso2\":\"PY\",\"iso3\":\"PRY\",\"numberCode\":\"600\"}},{\"id\":\"604\",\"name\":\"Perú\",\"countryGlobal\":{\"iso2\":\"PE\",\"iso3\":\"PER\",\"numberCode\":\"604\"}},{\"id\":\"612\",\"name\":\"Pitcairn\",\"countryGlobal\":{\"iso2\":\"PN\",\"iso3\":\"PCN\",\"numberCode\":\"612\"}},{\"id\":\"258\",\"name\":\"Polinesia Francesa\",\"countryGlobal\":{\"iso2\":\"PF\",\"iso3\":\"PYF\",\"numberCode\":\"258\"}},{\"id\":\"616\",\"name\":\"Polonia\",\"countryGlobal\":{\"iso2\":\"PL\",\"iso3\":\"POL\",\"numberCode\":\"616\"}},{\"id\":\"620\",\"name\":\"Portugal\",\"countryGlobal\":{\"iso2\":\"PT\",\"iso3\":\"PRT\",\"numberCode\":\"620\"}},{\"id\":\"630\",\"name\":\"Puerto Rico\",\"countryGlobal\":{\"iso2\":\"PR\",\"iso3\":\"PRI\",\"numberCode\":\"630\"}},{\"id\":\"634\",\"name\":\"Qatar\",\"countryGlobal\":{\"iso2\":\"QA\",\"iso3\":\"QAT\",\"numberCode\":\"634\"}},{\"id\":\"446\",\"name\":\"Región Administrativa Especial de Macao de la República Popular China\",\"countryGlobal\":{\"iso2\":\"MO\",\"iso3\":\"MAC\",\"numberCode\":\"446\"}},{\"id\":\"826\",\"name\":\"Reino Unido de Gran Bretaña e Irlanda del Norte (el)\",\"countryGlobal\":{\"iso2\":\"GB\",\"iso3\":\"GBR\",\"numberCode\":\"826\"}},{\"id\":\"760\",\"name\":\"República Árabe Siria\",\"countryGlobal\":{\"iso2\":\"SY\",\"iso3\":\"SYR\",\"numberCode\":\"760\"}},{\"id\":\"140\",\"name\":\"República Centroafricana (la)\",\"countryGlobal\":{\"iso2\":\"CF\",\"iso3\":\"CAF\",\"numberCode\":\"140\"}},{\"id\":\"203\",\"name\":\"República Checa (la)\",\"countryGlobal\":{\"iso2\":\"CZ\",\"iso3\":\"CZE\",\"numberCode\":\"203\"}},{\"id\":\"638\",\"name\":\"Reunión\",\"countryGlobal\":{\"iso2\":\"RE\",\"iso3\":\"REU\",\"numberCode\":\"638\"}},{\"id\":\"642\",\"name\":\"Rumanía\",\"countryGlobal\":{\"iso2\":\"RO\",\"iso3\":\"ROU\",\"numberCode\":\"642\"}},{\"id\":\"643\",\"name\":\"Rusia\",\"countryGlobal\":{\"iso2\":\"RU\",\"iso3\":\"RUS\",\"numberCode\":\"643\"}},{\"id\":\"646\",\"name\":\"Rwanda\",\"countryGlobal\":{\"iso2\":\"RW\",\"iso3\":\"RWA\",\"numberCode\":\"646\"}},{\"id\":\"732\",\"name\":\"Sahara Occidental\",\"countryGlobal\":{\"iso2\":\"EH\",\"iso3\":\"ESH\",\"numberCode\":\"732\"}},{\"id\":\"652\",\"name\":\"Saint Barthélemy\",\"countryGlobal\":{\"iso2\":\"BL\",\"iso3\":\"BLM\",\"numberCode\":\"652\"}},{\"id\":\"659\",\"name\":\"Saint Kitts y Nevis\",\"countryGlobal\":{\"iso2\":\"KN\",\"iso3\":\"KNA\",\"numberCode\":\"659\"}},{\"id\":\"663\",\"name\":\"Saint Martin (parte francesa)\",\"countryGlobal\":{\"iso2\":\"MF\",\"iso3\":\"MAF\",\"numberCode\":\"663\"}},{\"id\":\"090\",\"name\":\"Salomón\",\"countryGlobal\":{\"iso2\":\"SB\",\"iso3\":\"SLB\",\"numberCode\":\"090\"}},{\"id\":\"882\",\"name\":\"Samoa\",\"countryGlobal\":{\"iso2\":\"WS\",\"iso3\":\"WSM\",\"numberCode\":\"882\"}},{\"id\":\"016\",\"name\":\"Samoa Americana\",\"countryGlobal\":{\"iso2\":\"AS\",\"iso3\":\"ASM\",\"numberCode\":\"016\"}},{\"id\":\"674\",\"name\":\"San Marino\",\"countryGlobal\":{\"iso2\":\"SM\",\"iso3\":\"SMR\",\"numberCode\":\"674\"}},{\"id\":\"666\",\"name\":\"San Pedro y Miquelón\",\"countryGlobal\":{\"iso2\":\"PM\",\"iso3\":\"SPM\",\"numberCode\":\"666\"}},{\"id\":\"654\",\"name\":\"Santa Helena\",\"countryGlobal\":{\"iso2\":\"SH\",\"iso3\":\"SHN\",\"numberCode\":\"654\"}},{\"id\":\"662\",\"name\":\"Santa Lucía\",\"countryGlobal\":{\"iso2\":\"LC\",\"iso3\":\"LCA\",\"numberCode\":\"662\"}},{\"id\":\"336\",\"name\":\"Santa Sede (la)\",\"countryGlobal\":{\"iso2\":\"VA\",\"iso3\":\"VAT\",\"numberCode\":\"336\"}},{\"id\":\"678\",\"name\":\"Santo Tomé y Príncipe\",\"countryGlobal\":{\"iso2\":\"ST\",\"iso3\":\"STP\",\"numberCode\":\"678\"}},{\"id\":\"670\",\"name\":\"San Vicente y las Granadinas\",\"countryGlobal\":{\"iso2\":\"VC\",\"iso3\":\"VCT\",\"numberCode\":\"670\"}},{\"id\":\"686\",\"name\":\"Senegal\",\"countryGlobal\":{\"iso2\":\"SN\",\"iso3\":\"SEN\",\"numberCode\":\"686\"}},{\"id\":\"688\",\"name\":\"Serbia\",\"countryGlobal\":{\"iso2\":\"RS\",\"iso3\":\"SRB\",\"numberCode\":\"688\"}},{\"id\":\"690\",\"name\":\"Seychelles\",\"countryGlobal\":{\"iso2\":\"SC\",\"iso3\":\"SYC\",\"numberCode\":\"690\"}},{\"id\":\"694\",\"name\":\"Sierra Leona\",\"countryGlobal\":{\"iso2\":\"SL\",\"iso3\":\"SLE\",\"numberCode\":\"694\"}},{\"id\":\"702\",\"name\":\"Singapur\",\"countryGlobal\":{\"iso2\":\"SG\",\"iso3\":\"SGP\",\"numberCode\":\"702\"}},{\"id\":\"534\",\"name\":\"Sint Maarten (parte neerlandesa)\",\"countryGlobal\":{\"iso2\":\"SX\",\"iso3\":\"SXM\",\"numberCode\":\"534\"}},{\"id\":\"706\",\"name\":\"Somalia\",\"countryGlobal\":{\"iso2\":\"SO\",\"iso3\":\"SOM\",\"numberCode\":\"706\"}},{\"id\":\"144\",\"name\":\"Sri Lanka\",\"countryGlobal\":{\"iso2\":\"LK\",\"iso3\":\"LKA\",\"numberCode\":\"144\"}},{\"id\":\"748\",\"name\":\"Suazilandia\",\"countryGlobal\":{\"iso2\":\"SZ\",\"iso3\":\"SWZ\",\"numberCode\":\"748\"}},{\"id\":\"710\",\"name\":\"Sudáfrica\",\"countryGlobal\":{\"iso2\":\"ZA\",\"iso3\":\"ZAF\",\"numberCode\":\"710\"}},{\"id\":\"728\",\"name\":\"Sudán del Sur\",\"countryGlobal\":{\"iso2\":\"SS\",\"iso3\":\"SSD\",\"numberCode\":\"728\"}},{\"id\":\"729\",\"name\":\"Sudán (el)\",\"countryGlobal\":{\"iso2\":\"SD\",\"iso3\":\"SDN\",\"numberCode\":\"729\"}},{\"id\":\"752\",\"name\":\"Suecia\",\"countryGlobal\":{\"iso2\":\"SE\",\"iso3\":\"SWE\",\"numberCode\":\"752\"}},{\"id\":\"756\",\"name\":\"Suiza\",\"countryGlobal\":{\"iso2\":\"CH\",\"iso3\":\"CHE\",\"numberCode\":\"756\"}},{\"id\":\"740\",\"name\":\"Suriname\",\"countryGlobal\":{\"iso2\":\"SR\",\"iso3\":\"SUR\",\"numberCode\":\"740\"}},{\"id\":\"744\",\"name\":\"Svalbard y Jan Mayen\",\"countryGlobal\":{\"iso2\":\"SJ\",\"iso3\":\"SJM\",\"numberCode\":\"744\"}},{\"id\":\"764\",\"name\":\"Tailandia\",\"countryGlobal\":{\"iso2\":\"TH\",\"iso3\":\"THA\",\"numberCode\":\"764\"}},{\"id\":\"158\",\"name\":\"Taiwán (Provincia de China)\",\"countryGlobal\":{\"iso2\":\"TW\",\"iso3\":\"TWN\",\"numberCode\":\"158\"}},{\"id\":\"834\",\"name\":\"Tanzania\",\"countryGlobal\":{\"iso2\":\"TZ\",\"iso3\":\"TZA\",\"numberCode\":\"834\"}},{\"id\":\"762\",\"name\":\"Tayikistán\",\"countryGlobal\":{\"iso2\":\"TJ\",\"iso3\":\"TJK\",\"numberCode\":\"762\"}},{\"id\":\"086\",\"name\":\"Territorio Británico del Océano Índico (el)\",\"countryGlobal\":{\"iso2\":\"IO\",\"iso3\":\"IOT\",\"numberCode\":\"086\"}},{\"id\":\"260\",\"name\":\"Tierras Australes Francesas (las)\",\"countryGlobal\":{\"iso2\":\"TF\",\"iso3\":\"ATF\",\"numberCode\":\"260\"}},{\"id\":\"626\",\"name\":\"Timor-Leste\",\"countryGlobal\":{\"iso2\":\"TL\",\"iso3\":\"TLS\",\"numberCode\":\"626\"}},{\"id\":\"768\",\"name\":\"Togo\",\"countryGlobal\":{\"iso2\":\"TG\",\"iso3\":\"TGO\",\"numberCode\":\"768\"}},{\"id\":\"772\",\"name\":\"Tokelau\",\"countryGlobal\":{\"iso2\":\"TK\",\"iso3\":\"TKL\",\"numberCode\":\"772\"}},{\"id\":\"776\",\"name\":\"Tonga\",\"countryGlobal\":{\"iso2\":\"TO\",\"iso3\":\"TON\",\"numberCode\":\"776\"}},{\"id\":\"780\",\"name\":\"Trinidad y Tobago\",\"countryGlobal\":{\"iso2\":\"TT\",\"iso3\":\"TTO\",\"numberCode\":\"780\"}},{\"id\":\"788\",\"name\":\"Túnez\",\"countryGlobal\":{\"iso2\":\"TN\",\"iso3\":\"TUN\",\"numberCode\":\"788\"}},{\"id\":\"796\",\"name\":\"Turcas y Caicos\",\"countryGlobal\":{\"iso2\":\"TC\",\"iso3\":\"TCA\",\"numberCode\":\"796\"}},{\"id\":\"795\",\"name\":\"Turkmenistán\",\"countryGlobal\":{\"iso2\":\"TM\",\"iso3\":\"TKM\",\"numberCode\":\"795\"}},{\"id\":\"792\",\"name\":\"Turquía\",\"countryGlobal\":{\"iso2\":\"TR\",\"iso3\":\"TUR\",\"numberCode\":\"792\"}},{\"id\":\"798\",\"name\":\"Tuvalu\",\"countryGlobal\":{\"iso2\":\"TV\",\"iso3\":\"TUV\",\"numberCode\":\"798\"}},{\"id\":\"804\",\"name\":\"Ucrania\",\"countryGlobal\":{\"iso2\":\"UA\",\"iso3\":\"UKR\",\"numberCode\":\"804\"}},{\"id\":\"800\",\"name\":\"Uganda\",\"countryGlobal\":{\"iso2\":\"UG\",\"iso3\":\"UGA\",\"numberCode\":\"800\"}},{\"id\":\"858\",\"name\":\"Uruguay\",\"countryGlobal\":{\"iso2\":\"UY\",\"iso3\":\"URY\",\"numberCode\":\"858\"}},{\"id\":\"860\",\"name\":\"Uzbekistán\",\"countryGlobal\":{\"iso2\":\"UZ\",\"iso3\":\"UZB\",\"numberCode\":\"860\"}},{\"id\":\"548\",\"name\":\"Vanuatu\",\"countryGlobal\":{\"iso2\":\"VU\",\"iso3\":\"VUT\",\"numberCode\":\"548\"}},{\"id\":\"862\",\"name\":\"Venezuela (República Bolivariana de)\",\"countryGlobal\":{\"iso2\":\"VE\",\"iso3\":\"VEN\",\"numberCode\":\"862\"}},{\"id\":\"704\",\"name\":\"Viet Nam\",\"countryGlobal\":{\"iso2\":\"VN\",\"iso3\":\"VNM\",\"numberCode\":\"704\"}},{\"id\":\"092\",\"name\":\"Vírgenes británicas\",\"countryGlobal\":{\"iso2\":\"VG\",\"iso3\":\"VGB\",\"numberCode\":\"092\"}},{\"id\":\"850\",\"name\":\"Vírgenes de los Estados Unidos\",\"countryGlobal\":{\"iso2\":\"VI\",\"iso3\":\"VIR\",\"numberCode\":\"850\"}},{\"id\":\"876\",\"name\":\"Wallis y Futuna\",\"countryGlobal\":{\"iso2\":\"WF\",\"iso3\":\"WLF\",\"numberCode\":\"876\"}},{\"id\":\"887\",\"name\":\"Yemen\",\"countryGlobal\":{\"iso2\":\"YE\",\"iso3\":\"YEM\",\"numberCode\":\"887\"}},{\"id\":\"894\",\"name\":\"Zambia\",\"countryGlobal\":{\"iso2\":\"ZM\",\"iso3\":\"ZMB\",\"numberCode\":\"894\"}},{\"id\":\"716\",\"name\":\"Zimbabwe\",\"countryGlobal\":{\"iso2\":\"ZW\",\"iso3\":\"ZWE\",\"numberCode\":\"716\"}}]"
+        },
+        {
+          "name": "clubId_menu",
+          "value": "36239"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"creationTimeMs\":1771174726143},\"expires\":1778950726143}}"
+        },
+        {
+          "name": "languageInUse",
+          "value": "{\"id\":\"29398\",\"clubId\":\"36239\",\"languageCode\":\"ES\",\"active\":true,\"default\":true,\"createdAt\":\"2025-11-10T09:58:28.184Z\",\"updatedAt\":\"2025-11-10T09:58:49.014Z\",\"deletedAt\":null,\"ClubId\":\"36239\",\"language\":{\"code\":\"ES\",\"name\":\"SPANISH\",\"active\":true,\"region\":\"ES\"},\"codeRegion\":\"ES-ES\"}"
+        },
+        {
+          "name": "clubColors",
+          "value": "{\"id\":\"28998\",\"clubId\":\"36239\",\"colorPrimary\":null,\"colorSecondary\":null,\"primaryClupik\":null,\"secondaryClupik\":null,\"primaryClupikText\":null,\"secondaryClupikText\":null,\"navbarMenuBg\":null,\"navbarMenuText\":null,\"navbarSubmenuBg\":null,\"navbarSubmenuText\":null,\"linkColor\":null,\"linkSecondaryColor\":null,\"fontGeneral\":null,\"fontMain\":null,\"url\":null,\"sportSectionId\":null,\"customAppearance\":null,\"section_id\":null}"
+        }
+      ]
+    }
+  ]
+}

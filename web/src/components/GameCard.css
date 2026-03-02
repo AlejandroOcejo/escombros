@@ -1,0 +1,60 @@
+.game-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.game-card.escom-win {
+  border-left-color: var(--green);
+}
+
+.game-card.escom-loss {
+  border-left-color: var(--red);
+}
+
+.game-card:hover {
+  background: var(--surface-hover);
+}
+
+.game-card-teams {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.team-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95rem;
+}
+
+.team-row.winner .team-name,
+.team-row.winner .team-score {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.team-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 70%;
+}
+
+.team-score {
+  font-variant-numeric: tabular-nums;
+  font-size: 1.1rem;
+  min-width: 32px;
+  text-align: right;
+}
+
+.game-card-date {
+  margin-top: 8px;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}

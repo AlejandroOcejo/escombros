@@ -1,0 +1,37 @@
+{
+  "name": "escombot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "API básica en Node.js con Express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "scrape": "node src/scripts/scrape-actas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.4.624",
+    "tesseract.js": "^5.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "playwright": "^1.42.1",
+    "prettier": "^3.2.5",
+    "supertest": "^6.3.4"
+  }
+}

@@ -1,0 +1,50 @@
+.global-stats {
+  animation: fadeIn 0.2s ease;
+}
+
+.record-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+@media (min-width: 500px) {
+  .record-cards {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.record-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 12px;
+  text-align: center;
+}
+
+.record-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.record-card:first-child .record-value {
+  color: var(--green);
+}
+
+.record-label {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 4px;
+}
+
+.section-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--text);
+}

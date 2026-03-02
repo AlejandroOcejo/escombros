@@ -1,0 +1,3082 @@
+[
+  {
+    "id": "cb797b27c95c46e17482fb181ce6128e587e687a",
+    "archivo": "0c7313f110b53c405e7f31744d26b046de2bc230.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 19,
+          "triples": 2,
+          "tlAnotados": 5,
+          "tlIntentados": 8,
+          "tlPct": "63%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 10,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 15,
+          "triples": 1,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 6,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 56,
+      "puntosCalculados": 56
+    },
+    "equipoB": {
+      "nombre": "CAÑONEROS ALMOZARA",
+      "jugadores": [
+        {
+          "dorsal": 2,
+          "nombre": "Viñuales Riva, J",
+          "puntos": 20,
+          "triples": 6,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "SEBASTIAN MARTINEZ DE P",
+          "puntos": 8,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 12,
+          "nombre": "PERIBAÑEZ CANO, J",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 15,
+          "nombre": "AISA PÉREZ, C",
+          "puntos": 6,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 16,
+          "nombre": "ASÍN MOLINA, A",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 21,
+          "nombre": "LEDESMA VERA, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 22,
+          "nombre": "GALARZA SOLANS, L",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 23,
+          "nombre": "MOSCOSO FRISÓN, S",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 32,
+          "nombre": "GRACIA MARCO, R (CAP)",
+          "puntos": 15,
+          "triples": 2,
+          "tlAnotados": 3,
+          "tlIntentados": 4,
+          "tlPct": "75%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "GRACIA MARCO, J",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 76,
+          "nombre": "MARTINEZ GONZÁLEZ , M",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 73,
+      "puntosCalculados": 73
+    },
+    "resultadoFinal": {
+      "puntosA": 56,
+      "puntosB": 73
+    }
+  },
+  {
+    "id": "1fbf123294f0977a96a5edcd2eebedae7f1ea869",
+    "archivo": "28e837770918847531644d6e4f37d1cbfdc06dc6 (1).pdf",
+    "equipoA": {
+      "nombre": "LA MANON ANTIGUO BOSCOS",
+      "jugadores": [
+        {
+          "dorsal": 2,
+          "nombre": "NOTIVOL RIVED, P",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 5,
+          "nombre": "GRACIA CABALLERO, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 6,
+          "nombre": "SARRIA ALVAREZ, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "Tinoco Angulo, M",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "ARENGO, J",
+          "puntos": 35,
+          "triples": 3,
+          "tlAnotados": 8,
+          "tlIntentados": 11,
+          "tlPct": "73%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 13,
+          "nombre": "NAVARRETE VILA, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 16,
+          "nombre": "FELIZ PINEDA, Y",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 21,
+          "nombre": "LEVI, M",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 22,
+          "nombre": "Vera Gallego , P",
+          "puntos": 14,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 3,
+          "tlPct": "33%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 23,
+          "nombre": "NAVARRO GOMEZ, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 31,
+          "nombre": "LUCIA MARCO, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 35,
+          "nombre": "UCAR GAZO, A",
+          "puntos": 10,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 4,
+          "tlPct": "100%",
+          "faltas": 5,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 66,
+      "puntosCalculados": 66
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 23,
+          "triples": 6,
+          "tlAnotados": 3,
+          "tlIntentados": 5,
+          "tlPct": "60%",
+          "faltas": 7,
+          "eliminado": true
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 10,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 44,
+          "nombre": "Quilez Miguel, J",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 4,
+          "tlPct": "75%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 20,
+          "triples": 1,
+          "tlAnotados": 5,
+          "tlIntentados": 11,
+          "tlPct": "45%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 5,
+          "tlPct": "80%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 69,
+      "puntosCalculados": 69
+    },
+    "resultadoFinal": {
+      "puntosA": 66,
+      "puntosB": 69
+    }
+  },
+  {
+    "id": "3c29236d94e990cf0f7ccd700a0b65c27061d359",
+    "archivo": "350b85199bef9db0e4c94c01bd372fb20372d14c.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 3,
+          "tlPct": "67%",
+          "faltas": 9,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 27,
+          "triples": 3,
+          "tlAnotados": 6,
+          "tlIntentados": 10,
+          "tlPct": "60%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 6,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 17,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 7,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 7,
+          "tlPct": "43%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 7,
+          "triples": 0,
+          "tlAnotados": 5,
+          "tlIntentados": 8,
+          "tlPct": "63%",
+          "faltas": 2,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 71,
+      "puntosCalculados": 71
+    },
+    "equipoB": {
+      "nombre": "LA MANON ANTIGUO BOSCOS",
+      "jugadores": [
+        {
+          "dorsal": 1,
+          "nombre": "Zhu, X",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 2,
+          "nombre": "NOTIVOL RIVED, P",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 4,
+          "nombre": "YAGÜE , I",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "Tinoco Angulo, M",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 7,
+          "eliminado": true
+        },
+        {
+          "dorsal": 13,
+          "nombre": "NAVARRETE VILA, D (CAP)",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 7,
+          "eliminado": true
+        },
+        {
+          "dorsal": 16,
+          "nombre": "FELIZ PINEDA, Y",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 21,
+          "nombre": "LEVI, M",
+          "puntos": 14,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 1,
+          "tlPct": "0%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 22,
+          "nombre": "Vera Gallego , P",
+          "puntos": 20,
+          "triples": 0,
+          "tlAnotados": 8,
+          "tlIntentados": 12,
+          "tlPct": "67%",
+          "faltas": 9,
+          "eliminado": true
+        },
+        {
+          "dorsal": 23,
+          "nombre": "NAVARRO GOMEZ, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "Lika, E",
+          "puntos": 26,
+          "triples": 4,
+          "tlAnotados": 4,
+          "tlIntentados": 6,
+          "tlPct": "67%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 31,
+          "nombre": "LUCIA MARCO, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 35,
+          "nombre": "UCAR GAZO, A",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 1,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 73,
+      "puntosCalculados": 73
+    },
+    "resultadoFinal": {
+      "puntosA": 71,
+      "puntosB": 73
+    }
+  },
+  {
+    "id": "34e7d2a1c9f982a84227c62a70790909882804aa",
+    "archivo": "3bdfd8296dc069770f795ecb0e350cfed9bafed6.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 6,
+          "tlPct": "33%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 19,
+          "triples": 2,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 44,
+          "nombre": "Quilez Miguel, J",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 15,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 6,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 53,
+      "puntosCalculados": 53
+    },
+    "equipoB": {
+      "nombre": "BASKET LA ALMUNIA",
+      "jugadores": [
+        {
+          "dorsal": 0,
+          "nombre": "DIA, A",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 1,
+          "nombre": "Alonso García , S",
+          "puntos": 10,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 7,
+          "nombre": "BABACAR FALL, S",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "ALFARO, J",
+          "puntos": 7,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "MORLANES ALONSO,",
+          "puntos": 16,
+          "triples": 2,
+          "tlAnotados": 4,
+          "tlIntentados": 5,
+          "tlPct": "80%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 10,
+          "nombre": "Loren Gil, D",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "Ruiz-Peinado Garcia, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 13,
+          "nombre": "DEL VIEJO PEREZ, R",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 16,
+          "nombre": "Latorre Gómez, L (CAP)",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 17,
+          "nombre": "LAUSIN POZA, M",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 32,
+          "nombre": "GONZALVO ARNAL,",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 47,
+      "puntosCalculados": 47
+    },
+    "resultadoFinal": {
+      "puntosA": 53,
+      "puntosB": 47
+    }
+  },
+  {
+    "id": "ae9fc1196e74ab7a85db2b347e87ad2ea25a5051",
+    "archivo": "3cc739ea27d53a5431549c6af8b4c3b03c7ecf3c.pdf",
+    "equipoA": {
+      "nombre": "ESCOLAPIOS",
+      "jugadores": [
+        {
+          "dorsal": 2,
+          "nombre": "SINISTERRA, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "Carretero Ramos, A",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "Pallarés Belío, R",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 21,
+          "nombre": "Rivera Gómez, H",
+          "puntos": 9,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 23,
+          "nombre": "PALLARES BELLO, I",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 1,
+          "tlPct": "0%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 40,
+          "nombre": "Jiménez Parra, Ó",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 4,
+          "tlPct": "0%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 44,
+          "nombre": "Sánchez Bernal, A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 73,
+          "nombre": "Garicano Jaén, P",
+          "puntos": 18,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 7,
+          "tlPct": "57%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 75,
+          "nombre": "GARCIA GARCÍA-LISBONA,",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 78,
+          "nombre": "Briz Blanco, P",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 87,
+          "nombre": "Portillo Abarzuza, P (CAP)",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 5,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 52,
+      "puntosCalculados": 52
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 13,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 27,
+          "triples": 2,
+          "tlAnotados": 7,
+          "tlIntentados": 8,
+          "tlPct": "88%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 44,
+          "nombre": "Quilez Miguel, J",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 13,
+          "triples": 0,
+          "tlAnotados": 5,
+          "tlIntentados": 7,
+          "tlPct": "71%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 76,
+      "puntosCalculados": 76
+    },
+    "resultadoFinal": {
+      "puntosA": 52,
+      "puntosB": 76
+    }
+  },
+  {
+    "id": "8ba8431daf4e9094e9e4818b13bf89eb139a9dd0",
+    "archivo": "4a5b2a63d487c50d683d6851536e6c1f6341151c.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 20,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 10,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 21,
+          "triples": 2,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 64,
+      "puntosCalculados": 64
+    },
+    "equipoB": {
+      "nombre": "TNT BOMBA BASKET",
+      "jugadores": [
+        {
+          "dorsal": 4,
+          "nombre": "ARTAJONA SUAREZ, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 5,
+          "nombre": "Asensio Gomez, V",
+          "puntos": 11,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 5,
+          "tlPct": "60%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "SANZ LAHOZ, A",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 4,
+          "tlPct": "75%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "SALGADO SANGUEÑA, M",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 14,
+          "nombre": "NSOGO ANGONO, H",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 15,
+          "nombre": "Garcia Hurtado, J",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 16,
+          "nombre": "DE DIOS BERGES, C (CAP)",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 17,
+          "nombre": "ZARAGOZA BRETON, J",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 27,
+          "nombre": "PEREZ ANDRES, A",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 47,
+          "nombre": "RUSU PINZARU, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "HENRIQUE VAZ, P",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 99,
+          "nombre": "GARCÍA ANSÓN, Á",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 38,
+      "puntosCalculados": 38
+    },
+    "resultadoFinal": {
+      "puntosA": 64,
+      "puntosB": 38
+    }
+  },
+  {
+    "id": "242ca97fb3ac3645a84a89909b4863244f608fd2",
+    "archivo": "5caebe7df7b356f9dc688cb755f8eab2b7995141.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 21,
+          "triples": 3,
+          "tlAnotados": 4,
+          "tlIntentados": 4,
+          "tlPct": "100%",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 13,
+          "triples": 2,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 30,
+          "triples": 1,
+          "tlAnotados": 9,
+          "tlIntentados": 17,
+          "tlPct": "53%",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 10,
+          "tlPct": "30%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 76,
+      "puntosCalculados": 76
+    },
+    "equipoB": {
+      "nombre": "ESCOLAPIOS",
+      "jugadores": [
+        {
+          "dorsal": 2,
+          "nombre": "SINISTERRA RODRIGUEZ, D",
+          "puntos": 13,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 7,
+          "tlPct": "43%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 8,
+          "nombre": "Carretero Ramos, A",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 10,
+          "nombre": "PETIEN ROMERO, J",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 21,
+          "nombre": "Rivera Gómez, H",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 7,
+          "eliminado": true
+        },
+        {
+          "dorsal": 23,
+          "nombre": "PALLARES BELLO, I",
+          "puntos": 16,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 73,
+          "nombre": "Garicano Jaén, P",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 87,
+          "nombre": "Portillo Abarzuza, P (CAP)",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 8,
+          "tlPct": "38%",
+          "faltas": 8,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 56,
+      "puntosCalculados": 56
+    },
+    "resultadoFinal": {
+      "puntosA": 76,
+      "puntosB": 56
+    }
+  },
+  {
+    "id": "8fd9aad995a88ef5b06094b0993b70a38eb5bd7b",
+    "archivo": "6092c1da1c818d380e2de2b62409f60406ae6fe9.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 17,
+          "triples": 1,
+          "tlAnotados": 4,
+          "tlIntentados": 7,
+          "tlPct": "57%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 8,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 7,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 6,
+          "tlPct": "17%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 18,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 1,
+          "tlPct": "100%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 63,
+      "puntosCalculados": 63
+    },
+    "equipoB": {
+      "nombre": "ESCOLARIOS",
+      "jugadores": [
+        {
+          "dorsal": 5,
+          "nombre": "GRASA LÓPEZ, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 6,
+          "nombre": "Gimenez Granero, A",
+          "puntos": 10,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 7,
+          "nombre": "Paradera Sánchez, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 10,
+          "nombre": "PARDOS BERNAD,",
+          "puntos": 18,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "Feliz Medina, J",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 14,
+          "nombre": "Garbayo Morera, E (CAP)",
+          "puntos": 6,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 16,
+          "nombre": "PELEATO SÁNCHEZ, J",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 18,
+          "nombre": "Pasamar Piedrafita, A",
+          "puntos": 8,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "Goñi Crespo, R",
+          "puntos": 25,
+          "triples": 2,
+          "tlAnotados": 5,
+          "tlIntentados": 6,
+          "tlPct": "83%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 41,
+          "nombre": "Ballesta Carranza, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 75,
+      "puntosCalculados": 75
+    },
+    "resultadoFinal": {
+      "puntosA": 63,
+      "puntosB": 75
+    }
+  },
+  {
+    "id": "0c81e70b43d49d27be5da56b850388c4477c0409",
+    "archivo": "7b584229728f0b924da3ff6d2d6e4b56772a7787.pdf",
+    "equipoA": {
+      "nombre": "ESCOLARIOS",
+      "jugadores": [
+        {
+          "dorsal": 5,
+          "nombre": "GRASA LÓPEZ, N",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 8,
+          "nombre": "Rodríguez Zapater, Á",
+          "puntos": 6,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "Escartín Lasierra, I (CAP)",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 10,
+          "nombre": "PARDOS BERNAD,",
+          "puntos": 18,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 1,
+          "tlPct": "100%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "Feliz Medina, J",
+          "puntos": 19,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 3,
+          "tlPct": "33%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 14,
+          "nombre": "Garbayo Morera, E",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 18,
+          "nombre": "Pasamar Piedrafita, A",
+          "puntos": 12,
+          "triples": 3,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "Goñi Crespo, R",
+          "puntos": 10,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 1,
+          "tlPct": "100%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 41,
+          "nombre": "Ballesta Carranza, J",
+          "puntos": 18,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 89,
+      "puntosCalculados": 89
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 5,
+          "tlPct": "40%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 16,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 43,
+      "puntosCalculados": 43
+    },
+    "resultadoFinal": {
+      "puntosA": 89,
+      "puntosB": 43
+    }
+  },
+  {
+    "id": "e4e4368f0a021fc54726eb0e0d3e592b2bb351cb",
+    "archivo": "7d303aacf74a6629a64a11fe85b5fc95a3942fea.pdf",
+    "equipoA": {
+      "nombre": "LOS ZORROS",
+      "jugadores": [
+        {
+          "dorsal": 4,
+          "nombre": "Yupton Ollero, F (CAP)",
+          "puntos": 9,
+          "triples": 3,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 5,
+          "nombre": "Gómez Maluenda, H",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 3,
+          "tlPct": "33%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 6,
+          "nombre": "Bernal Royo, J",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 7,
+          "nombre": "Muñoz Fumanal, D",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "SERON FUMANAL, A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "Hanna San Jose, D",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 12,
+          "nombre": "VALERO LAFUENTE, J",
+          "puntos": 11,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 7,
+          "tlPct": "43%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 20,
+          "nombre": "Perez Pozo, J",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 27,
+          "nombre": "BERDEJO PEREZ, S",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "LEON CONCHILLO, E",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 58,
+      "puntosCalculados": 58
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 16,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 11,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 6,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 6,
+          "tlPct": "17%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 9,
+          "triples": 1,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 43,
+      "puntosCalculados": 43
+    },
+    "resultadoFinal": {
+      "puntosA": 58,
+      "puntosB": 43
+    }
+  },
+  {
+    "id": "9ce69b78c6e3ffd1645543669026442f5fadbbae",
+    "archivo": "7d4d00e2c79ed0aa80088791131288ef1b1b6314.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 12,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 7,
+          "tlPct": "29%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 16,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 13,
+          "triples": 2,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 44,
+          "nombre": "Quilez Miguel, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 21,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 5,
+          "tlPct": "60%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 4,
+          "tlPct": "100%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 73,
+      "puntosCalculados": 73
+    },
+    "equipoB": {
+      "nombre": "EB ALCAÑIZ",
+      "jugadores": [
+        {
+          "dorsal": 4,
+          "nombre": "PEREZ RUIZ, J",
+          "puntos": 12,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 7,
+          "eliminado": true
+        },
+        {
+          "dorsal": 5,
+          "nombre": "ZAURÍN GARCIA, M",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 4,
+          "tlPct": "100%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "HERRERO GINER, J",
+          "puntos": 1,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "VALLES ORRIOS, C",
+          "puntos": 18,
+          "triples": 5,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 10,
+          "nombre": "APARICIO MAZA, D (CAP)",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "LEDESMA IZQUIERDO, P",
+          "puntos": 13,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 8,
+          "tlPct": "38%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 12,
+          "nombre": "SORIANO NAVARRO, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 16,
+          "nombre": "MALDONADO OCHOA DE A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "YARRITU GUINEA, J",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 7,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 68,
+      "puntosCalculados": 68
+    },
+    "resultadoFinal": {
+      "puntosA": 73,
+      "puntosB": 68
+    }
+  },
+  {
+    "id": "35c73bb8739711fc60e5f03336326f4412a9e34d",
+    "archivo": "a5643e0ad01cfd39fe1c76724f99a01a0e1e6698.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 11,
+          "triples": 1,
+          "tlAnotados": 2,
+          "tlIntentados": 7,
+          "tlPct": "29%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 10,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 44,
+          "nombre": "Quilez Miguel, J",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 7,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 5,
+          "tlPct": "20%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 51,
+      "puntosCalculados": 51
+    },
+    "equipoB": {
+      "nombre": "LA SALLE MONTEMOLIN F",
+      "jugadores": [
+        {
+          "dorsal": 1,
+          "nombre": "Cuesta ibarguen, C",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 3,
+          "tlPct": "67%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 3,
+          "nombre": "FRAJ IBAÑEZ, P",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 6,
+          "tlPct": "67%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 5,
+          "nombre": "SANTOS MAESTRE, M",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 6,
+          "nombre": "GUTIERREZ PORTERO, M",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 7,
+          "nombre": "ESCUER CAUDEVILLA, P",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "FRANCO GRACIA, M",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 1,
+          "tlPct": "100%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 11,
+          "nombre": "PALACIO SISAMON, R",
+          "puntos": 11,
+          "triples": 2,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 21,
+          "nombre": "Ortiz Lopez, P",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 7,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "LATORRE GARCIA ABADILL",
+          "puntos": 6,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 97,
+          "nombre": "Alconchel Lapeña, J",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 4,
+          "tlPct": "75%",
+          "faltas": 4,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 58,
+      "puntosCalculados": 58
+    },
+    "resultadoFinal": {
+      "puntosA": 51,
+      "puntosB": 58
+    }
+  },
+  {
+    "id": "377ecd4f050ab76f32d2745d5fa8d7431160e418",
+    "archivo": "ce749a52d632b985995a10c5365cdc81e73fd7ff.pdf",
+    "equipoA": {
+      "nombre": "BASKET LA ALMUNIA",
+      "jugadores": [
+        {
+          "dorsal": 0,
+          "nombre": "DIA, A",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 3,
+          "nombre": "Huerta García, J",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 7,
+          "nombre": "BABACAR FALL, S",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 9,
+          "nombre": "MORLANES ALONSO,",
+          "puntos": 35,
+          "triples": 5,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 10,
+          "nombre": "Loren Gil, D",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "51 man izq Ruiz-Peinado Garcia, D",
+          "puntos": 8,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 16,
+          "nombre": "3 ARAGONESA MASCULINA ESCOM-BROS-BASKET LA ALMUNIA Latorre Gómez, L",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 17,
+          "nombre": "LAUSIN POZA, M",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 32,
+          "nombre": "PABELLÓN LA ISLA (MONTAÑANA) 16:30 GONZALVO ARNAL,",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 66,
+      "puntosCalculados": 66
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 18,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 30,
+          "triples": 1,
+          "tlAnotados": 7,
+          "tlIntentados": 9,
+          "tlPct": "78%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 17,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 1,
+          "tlPct": "100%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 80,
+      "puntosCalculados": 80
+    },
+    "resultadoFinal": {
+      "puntosA": 66,
+      "puntosB": 80
+    }
+  },
+  {
+    "id": "dd2ed9f926f36be6790eef826fdb7e1e8235f50b",
+    "archivo": "e20ed36bf9dfd689057c00f6c912ec068ec4bc51 (1).pdf",
+    "equipoA": {
+      "nombre": "TNT BOMBA BASKET",
+      "jugadores": [
+        {
+          "dorsal": 4,
+          "nombre": "ARTAJONA SUAREZ, D",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 9,
+          "eliminado": true
+        },
+        {
+          "dorsal": 5,
+          "nombre": "Garcia Hurtado, J",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 10,
+          "nombre": "CASTELLO MBA, S",
+          "puntos": 10,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 11,
+          "nombre": "SALGADO SANGUEÑA, M",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 13,
+          "nombre": "ZAMORA ESCUSOL, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 14,
+          "nombre": "NSOGO ANGONO, H",
+          "puntos": 15,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 16,
+          "nombre": "DE DIOS BERGES, C (CAP)",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 19,
+          "nombre": "CIUCIU, R",
+          "puntos": 7,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 36,
+          "nombre": "Obian, L",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 99,
+          "nombre": "GARCÍA ANSÓN, Á",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 7,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 50,
+      "puntosCalculados": 50
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 19,
+          "triples": 0,
+          "tlAnotados": 7,
+          "tlIntentados": 11,
+          "tlPct": "64%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 27,
+          "triples": 2,
+          "tlAnotados": 9,
+          "tlIntentados": 15,
+          "tlPct": "60%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C (CAP)",
+          "puntos": 5,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 8,
+          "tlPct": "13%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 4,
+          "tlPct": "25%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 1,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 2,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 62,
+      "puntosCalculados": 62
+    },
+    "resultadoFinal": {
+      "puntosA": 50,
+      "puntosB": 62
+    }
+  }
+]
