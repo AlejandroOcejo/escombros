@@ -1,5 +1,214 @@
 [
   {
+    "id": "8efb9e62d5f276472b55ca44ad4bce6094e3b9f1",
+    "archivo": "057e96139e192d37fc9cf7a95837282e03237a58.pdf",
+    "equipoA": {
+      "nombre": "LA SALLE MONTEMOLIN F",
+      "jugadores": [
+        {
+          "dorsal": 1,
+          "nombre": "Cuesta ibarguen, C",
+          "puntos": 3,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 3,
+          "nombre": "FRAJ IBAÑEZ, P",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 6,
+          "nombre": "GUTIERREZ PORTERO, M",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 7,
+          "nombre": "ESCUER CAUDEVILLA, P",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 8,
+          "nombre": "FRANCO GRACIA, M",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "PALACIO SISAMON, R",
+          "puntos": 10,
+          "triples": 2,
+          "tlAnotados": 0,
+          "tlIntentados": 1,
+          "tlPct": "0%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 13,
+          "nombre": "CASTELLÓ VALENCIA, H",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 21,
+          "nombre": "Ortiz Lopez, P",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "LATORRE GARCIA ABADILL",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 97,
+          "nombre": "Alconchel Lapeña, J",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 3,
+          "tlPct": "0%",
+          "faltas": 3,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 49,
+      "puntosCalculados": 49
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 17,
+          "triples": 0,
+          "tlAnotados": 7,
+          "tlIntentados": 8,
+          "tlPct": "88%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 15,
+          "triples": 2,
+          "tlAnotados": 3,
+          "tlIntentados": 3,
+          "tlPct": "100%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 13,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 10,
+          "tlPct": "30%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 58,
+      "puntosCalculados": 58
+    },
+    "resultadoFinal": {
+      "puntosA": 49,
+      "puntosB": 58
+    }
+  },
+  {
     "id": "cb797b27c95c46e17482fb181ce6128e587e687a",
     "archivo": "0c7313f110b53c405e7f31744d26b046de2bc230.pdf",
     "equipoA": {
