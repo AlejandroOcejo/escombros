@@ -3058,6 +3058,248 @@
     }
   },
   {
+    "id": "7c6f1d995f3b4ef4d67d10a2594e3657b719eaea",
+    "archivo": "ab9d548794f3b7f7d495624b613942d1d20d3ba9.pdf",
+    "equipoA": {
+      "nombre": "STADIUM VENECIA",
+      "jugadores": [
+        {
+          "dorsal": 0,
+          "nombre": "Pérez Merchán, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 7,
+          "nombre": "GRACIA ESCANILLA, C",
+          "puntos": 13,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 8,
+          "eliminado": true
+        },
+        {
+          "dorsal": 9,
+          "nombre": "MARCEN DAYAO, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 11,
+          "nombre": "Fernández-Pacheco Chicón, R",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 14,
+          "nombre": "Carrillo Alonso, D",
+          "puntos": 5,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 17,
+          "nombre": "García-Moreno Naharro, J",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 2,
+          "tlPct": "0%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 23,
+          "nombre": "GARIN FARINS, D",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 25,
+          "nombre": "Zapico Iglesias , F",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 3,
+          "eliminado": false
+        },
+        {
+          "dorsal": 31,
+          "nombre": "ALIAGA RAMÓN, F",
+          "puntos": 6,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 33,
+          "nombre": "Massia Prado, C (CAP)",
+          "puntos": 4,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "CENTENO FERRER, J",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "CARCELERO DE PABLO, E",
+          "puntos": 12,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 7,
+          "eliminado": true
+        }
+      ],
+      "totalPuntos": 44,
+      "puntosCalculados": 44
+    },
+    "equipoB": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 9,
+          "tlPct": "44%",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 13,
+          "triples": 1,
+          "tlAnotados": 4,
+          "tlIntentados": 6,
+          "tlPct": "67%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 45,
+          "nombre": "PORQUET MEDRANO, J",
+          "puntos": 7,
+          "triples": 0,
+          "tlAnotados": 3,
+          "tlIntentados": 10,
+          "tlPct": "30%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 51,
+          "nombre": "MEDINA JIMENEZ, I",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 9,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 2,
+          "tlPct": "50%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "Cañas Gil, N",
+          "puntos": 12,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 2,
+          "tlPct": "100%",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 49,
+      "puntosCalculados": 49
+    },
+    "resultadoFinal": {
+      "puntosA": 44,
+      "puntosB": 49
+    }
+  },
+  {
     "id": "377ecd4f050ab76f32d2745d5fa8d7431160e418",
     "archivo": "ce749a52d632b985995a10c5365cdc81e73fd7ff.pdf",
     "equipoA": {
