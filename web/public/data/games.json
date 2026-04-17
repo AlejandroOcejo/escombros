@@ -3300,6 +3300,193 @@
     }
   },
   {
+    "id": "0418bdda8d06ab1d3ece0a6eeeb9bd24d362572b",
+    "archivo": "b8bbfc57ca8ba9d2a8e3e66f082b8057cd5116a9.pdf",
+    "equipoA": {
+      "nombre": "ESCOM-BROS",
+      "jugadores": [
+        {
+          "dorsal": 18,
+          "nombre": "OCEJO GARCÍA, A",
+          "puntos": 0,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 6,
+          "eliminado": true
+        },
+        {
+          "dorsal": 24,
+          "nombre": "BLASCO AINSA, A",
+          "puntos": 11,
+          "triples": 0,
+          "tlAnotados": 1,
+          "tlIntentados": 3,
+          "tlPct": "33%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "REVILLA CENTENERO, P",
+          "puntos": 22,
+          "triples": 2,
+          "tlAnotados": 2,
+          "tlIntentados": 4,
+          "tlPct": "50%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 42,
+          "nombre": "BUENO MAZAS, S",
+          "puntos": 24,
+          "triples": 5,
+          "tlAnotados": 3,
+          "tlIntentados": 5,
+          "tlPct": "60%",
+          "faltas": 4,
+          "eliminado": false
+        },
+        {
+          "dorsal": 64,
+          "nombre": "GUERREA LANUZA, C",
+          "puntos": 8,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 69,
+          "nombre": "ALDAZ MUÑOZ, R",
+          "puntos": 8,
+          "triples": 1,
+          "tlAnotados": 1,
+          "tlIntentados": 1,
+          "tlPct": "100%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 77,
+          "nombre": "17/04/2026 A LAS 19:00 PABELLÓN LA ISLA 3RA ARAGONESA MASCULINA ESCOM-BROS CONTRA Cañas Gil, N",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 0,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 76,
+      "puntosCalculados": 76
+    },
+    "equipoB": {
+      "nombre": "ALFASA MAMBA TEAM",
+      "jugadores": [
+        {
+          "dorsal": 0,
+          "nombre": "URRIZA BENEDI, J",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 2,
+          "eliminado": false
+        },
+        {
+          "dorsal": 1,
+          "nombre": "MUÑOZ ALARCON, J",
+          "puntos": 9,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 8,
+          "nombre": "SERRANO SANCHEZ, M",
+          "puntos": 7,
+          "triples": 1,
+          "tlAnotados": 2,
+          "tlIntentados": 6,
+          "tlPct": "33%",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 16,
+          "nombre": "VALLESPIN ALCAZAR, J",
+          "puntos": 10,
+          "triples": 0,
+          "tlAnotados": 2,
+          "tlIntentados": 6,
+          "tlPct": "33%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 24,
+          "nombre": "GONZALEZ GAMBAU, P",
+          "puntos": 14,
+          "triples": 0,
+          "tlAnotados": 4,
+          "tlIntentados": 5,
+          "tlPct": "80%",
+          "faltas": 1,
+          "eliminado": false
+        },
+        {
+          "dorsal": 30,
+          "nombre": "CAMARERO RUBIO, E",
+          "puntos": 13,
+          "triples": 3,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 5,
+          "eliminado": true
+        },
+        {
+          "dorsal": 33,
+          "nombre": "ASENSIO AYESA, J",
+          "puntos": 2,
+          "triples": 0,
+          "tlAnotados": 0,
+          "tlIntentados": 1,
+          "tlPct": "0%",
+          "faltas": 0,
+          "eliminado": false
+        },
+        {
+          "dorsal": 75,
+          "nombre": "Benito Paesa, A",
+          "puntos": 3,
+          "triples": 1,
+          "tlAnotados": 0,
+          "tlIntentados": 0,
+          "tlPct": "",
+          "faltas": 4,
+          "eliminado": false
+        }
+      ],
+      "totalPuntos": 60,
+      "puntosCalculados": 60
+    },
+    "resultadoFinal": {
+      "puntosA": 76,
+      "puntosB": 60
+    }
+  },
+  {
     "id": "377ecd4f050ab76f32d2745d5fa8d7431160e418",
     "archivo": "ce749a52d632b985995a10c5365cdc81e73fd7ff.pdf",
     "equipoA": {
